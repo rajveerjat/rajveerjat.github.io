@@ -1,0 +1,489 @@
+---
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
+---
+<html lang="en">
+<!-- define head and style (similar with import package) -->
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+<style>
+* {
+  box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+  float: left;
+  padding: 10px;
+/*   height: 300px; Should be removed. Only for demonstration */
+}
+
+.left {
+  width: 35%;
+}
+
+.right {
+  width: 65%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+	
+/* enlarge an image on hover in HTML:https://www.educative.io/answers/how-to-enlarge-an-image-on-hover-in-html */
+.div-img{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    padding-top:20%;
+}
+img{
+    transition: transform 1s;
+    width:350px;
+    height:250px;
+    margin:0 auto;
+    background-color: rgb(173, 173, 237);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+img:hover{
+    transform:scale(1.5);
+}
+
+br {
+            display: block; /* makes it have a width */
+            content: ""; /* clears default height */
+            margin-top: 10; /* change this to whatever height you want it */
+}
+
+/* image slider: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow */
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: rgba(0,0,0,0.8);
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: -30px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/2 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  position: relative;
+  bottom: -30px;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+	
+</style>
+
+</head>
+	
+<!-- The body of webpage starts here -->
+<body>
+<div class="container">
+
+	
+<div align="center" id="top">
+<h1 class="text-muted" style="color: #888888; font-weight:600; text-shadow: 1px 1px #A9A9A9;"> 
+<i>RESEARCH</i> 
+</h1>
+</div>
+	
+	
+
+<!-- Job Market Paper -->
+<hr class="featurette-divider ">
+<div align="center" id="Pub">
+<h1> Job Market Paper </h1> <br>
+</div>
+
+	
+<!-- SIF -->
+<hr class="featurette-divider ">
+<div id="SIF">
+<span style="font-size:20px; color: black; font-weight:bold"> Sufficient Instruments Filter </span><br>
+<span style="font-size:17px"> <br></span>
+ 
+</div>
+<div class="row">
+	<div class="column left">
+	 <img class="img-thumbnail img-responsive " src="../images/SIF_archi.png" onclick="op(this.src)">		
+	</div>
+	
+	 <div class="column right">
+		 <h3 class="featurette-heading ">  
+		 This paper introduces a novel procedure to filter out sufficient information from many instruments for the estimation
+		 of parameters in regression models with endogenous regressors. This method allows correlated and even invalid instruments. 
+	         This technique draws its merit from the ability to incorporate supervision, the flexibility to accommodate non-linearity, 
+	         and the capability for sufficient dimension reduction. </h3>
+		
+		 
+		 <h3>
+			<a href="https://github.com/rajveerjat/rajveerjat.github.io/blob/master/files/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; ">
+			<b>[Paper]</b></a>&nbsp;
+		</h3> 
+		 
+		 
+		 <details>
+		<summary>Abstract</summary>
+		<br>
+		 This paper introduces a novel five-layered deep learning-based tractable procedure to filter out sufficient information 
+                 from many instruments for estimating parameters in regression models with endogenous regressors. 
+                 The method draws its merit from three key properties: the ability to incorporate supervision, 
+                 the flexibility to accommodate non-linearity, and the capability for sufficient dimension reduction. 
+                 This method is consistent and asymptotically normal when many instruments are correlated.
+                 Simulation exercises show that this method consistently achieves lower bias and root mean squared error 
+                 compared to competing benchmarks, across many specifications.  Two 
+                 real-world applications in industrial organizations(IO) and finance are considered, yielding meaningful insights into causal relationships. 
+                 The method remains robust when the number of instruments exceeds the sample size, and performs well even with invalid
+                 observed instruments, as long as there exists at least one linear combination of common factors among the 
+                 observed instruments that serves as a valid instrument.
+		</details>
+		 
+	</div>
+</div>
+
+
+
+
+
+
+	
+<!-- Submitted For Publication -->
+<hr class="featurette-divider ">
+<div align="center" id="WP">
+<h1> Submitted for Publication </h1> <br>
+</div>
+
+	
+<!-- Kernel 3PRF -->
+<hr class="featurette-divider ">
+<div id="Kernel_3PRF">
+<span style="font-size:20px; color: black; font-weight:bold"> Kernel Three Pass Regression Filter </span><br>
+<span style="font-size:17px"> (with Daanish Padha) <br></span>
+<span style="font-size:14px"> [Accepted for Presentation in The 2024 California Econometrics Conference ] <br>
+	                       </span>
+<span style="font-size:14px"> [Accepted for Presentation in The 34th Annual Midwest Econometrics Group Conference] <br>
+	                       </span>
+ 
+</div>
+<div class="row">
+	<div class="column left">
+	 <div class="slideshow-container">
+              <a href="#Kernel_3PRF" target="_blank ">
+<!-- 		<img class="img-thumbnail img-responsive " src="../images/k3prf_archi.png.jpg" onclick="op(this.src)"> -->
+<!-- 		  /* image slider: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_slideshow */ -->
+		<div class="slideshow-container">
+
+		<div class="mySlides fade">
+  			<div class="numbertext">1 / 3</div>
+  				<img src="../images/k3prf_archi.png" style="width:100%" onclick="plusSlides(-1)">
+  				<div class="text">Kernel 3PRF --- Architecture</div>
+		</div>
+			
+		 <div class="mySlides fade">
+  			<div class="numbertext">2 / 3</div>
+  				<img src="../images/K3PRF_short_horizon_plots.png" style="width:100%" onclick="plusSlides(-1)">
+  				<div class="text"> Forecasts --- Shorter Horizion</div>
+			</div>
+
+		 <div class="mySlides fade">
+  			<div class="numbertext">3 / 3</div>
+  				<img src="../images/K3PRF_long_horizon_plots.png" style="width:100%" onclick="plusSlides(+1)">
+  				<div class="text"> Forecasts --- Longer Horizion</div>
+			</div>
+
+		
+		<a class="prev" onclick="plusSlides(-1)">❮</a>
+		<a class="next" onclick="plusSlides(1)">❯</a>
+		</div>
+
+		  <div style="text-align:center">
+  			<span class="dot" onclick="currentSlide(1)"></span> 
+  			<span class="dot" onclick="currentSlide(2)"></span> 
+			<span class="dot" onclick="currentSlide(3)"></span>   
+		</div>
+
+		<script>
+		let slideIndex = 1;
+		showSlides(slideIndex);
+
+		function plusSlides(n) {
+  			showSlides(slideIndex += n);
+		}
+
+		function currentSlide(n) {
+  			showSlides(slideIndex = n);
+		}
+
+		function showSlides(n) {
+  			let i;
+  			let slides = document.getElementsByClassName("mySlides");
+ 			 let dots = document.getElementsByClassName("dot");
+  			if (n > slides.length) {slideIndex = 1}    
+  			if (n < 1) {slideIndex = slides.length}
+ 			 for (i = 0; i < slides.length; i++) {
+    				slides[i].style.display = "none";  
+ 			 }
+  			for (i = 0; i < dots.length; i++) {
+   				 dots[i].className = dots[i].className.replace(" active", "");
+  			}
+  			slides[slideIndex-1].style.display = "block";  
+  			dots[slideIndex-1].className += " active";
+			}
+		</script>
+	      </a>
+	    </div>
+      </div>  		
+  	 
+  <div class="column right">
+		<h3 class="featurette-heading ">  We propose a novel supervised and non-linear method of forecasting a single time series 
+			using a high-dimensional set of predictors. The method is computationally efficient and demonstrates strong empirical performance, 
+			particularly over longer forecast horizons.</h3>
+		 <h3>
+			<a href="https://github.com/rajveerjat/rajveerjat.github.io/blob/master/files/Kernel_3PRF.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+			<b>[Paper]</b></a>&nbsp;
+			<a href="https://github.com/rajveerjat/rajveerjat.github.io/blob/master/files/K3PRFposter.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+			<b>[Poster]</b></a>&nbsp;
+		</h3> 
+		 
+		 
+		 <details>
+		<summary>Abstract</summary>
+		<br>
+		  We forecast a single time series using a high-dimensional set of predictors. When predictors share common underlying dynamics, 
+	          a latent factor model estimated by the Principal Component method effectively characterizes their co-movements. 
+	          These latent factors succinctly summarize the data and aid in prediction, mitigating the curse of dimensionality. 
+	          However, two significant drawbacks arise: (1) not all factors may be relevant, and utilizing all of them in constructing forecasts 
+		  leads to inefficiency, and (2) typical models assume a linear dependence of the target on the set of predictors, which limits accuracy. 
+	          We address these issues through a novel method: Kernel Three-Pass Regression Filter. This method extends a supervised forecasting technique, 
+	          the Three-Pass Regression Filter, to exclude irrelevant information and operate within an enhanced framework capable of handling nonlinear dependencies.
+		  Our method is computationally efficient and demonstrates strong empirical performance, particularly over longer forecast horizons.
+		</details>
+		 
+		</div>
+</div>
+
+
+<!-- Work In Progress -->
+<hr class="featurette-divider ">
+<div align="center" id="WP">
+<h1> Work In Progress </h1> <br>
+</div>
+
+<!-- Autoencoder 3PRF -->
+<hr class="featurette-divider ">
+<div id="AE">
+<span style="font-size:20px; color: black; font-weight:bold"> Supervised Deep Dynamic Factor Models for Forecasting </span><br>
+<span style="font-size:17px"> (with Daanish Padha) <br></span>
+ 
+</div>
+<div class="row">
+	<div class="column left">
+          <img class="img-thumbnail img-responsive " src="../images/AE.png" onclick="op(this.src)">
+	</div>		  		
+  	 
+  <div class="column right">
+		<h3 class="featurette-heading ">  We employ supervision in deep learning methods to learn the underlying low-rank latent structure of the data. Then use 
+			this learning to forecast the out-of-sample time series. This method promises strong empirical performance.
+		</h3>
+		 
+		 <h3>
+			<a href="https://github.com/rajveerjat/rajveerjat.github.io/blob/master/files/AE.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+			<b>[Draft Coming Soon]</b></a>&nbsp;
+		</h3> 
+		 
+		 
+		 <details>
+		<summary>Abstract</summary>
+		<br>
+		 We use a neural network to forecast a single time series. 
+	         Inspired by the "Targeted Predictors" approach from Bai (Journal of Econometrics, 2008), 
+		 we first select a set of predictors by performing polynomial regression for each predictor individually. 
+	         Unlike traditional factor models, which limit the search to an underlying planar structure, 
+                our approach explores a non-linear, low-dimensional representation of the predictors that best explain the target variable.
+                </details>
+		 
+		</div>
+</div>
+	
+	
+<hr class="featurette-divider ">
+
+
+
+
+
+<!-- -----------------------------------
+The part below is just for experiment purpose! inspired by: https://zwbai.github.io/#
+<hr class="featurette-divider ">
+<h3>Title of paper 1: blablabla</h3>
+<div class="row">
+						<div class="column left">
+					
+						        <a href="#zero_covid" target="_blank ">
+								<img class="img-thumbnail img-responsive " src="../images/zero-covid.png" onclick="op(this.src)">
+							</a>
+						</div>
+	
+						<div class="column right">
+							<h4 class="featurette-heading ">dadadadaggInfrastructure-Based Object Detection and Tracking for Cooperative Driving Automation: A Survey </h4>
+							<h5 class="text-muted "> 
+								<a href="https://www.researchgate.net/profile/Zhengwei_Bai" target="_blank">
+									<b>Zhengwei Bai</b>
+								</a>
+								, Guoyuan Wu, Xuewei Qi, Yongkang Liu, Kentaro Oguchi, Matthew J. Barth 
+							</h5>
+							<h5> 
+								<i>arXiv preprint arXiv:2201.11871</i> 
+							</h5>
+							<h5>
+								<a href="https://www.researchgate.net/publication/358232826_Infrastructure-Based_Object_Detection_and_Tracking_for_Cooperative_Driving_Automation_A_Survey" target="_blank">
+									[<u>Paper</u>]</a>, 
+								<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Q8CADO705esJ:scholar.google.com/&amp;output=citation&amp;scisdr=CgXN0AlHEPTx5Irg5Cc:AAGBfm0AAAAAYgXm_CfevXJrg613HgaHStIOJQsjTsNO&amp;scisig=AAGBfm0AAAAAYgXm_A8a9IN9CUchDuprGVBDWOFKcmC4&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=en" target="_blank ">
+									[<u>CITE</u>]</a>
+							</h5>
+
+						</div>
+					</div>
+<hr class="featurette-divider ">
+<h3>Title of paper 2: blablabla</h3>
+<div class="row">
+	<div class="column left">
+					
+	  <a href="#zero_covid" target="_blank ">
+		<img class="img-thumbnail img-responsive " src="../images/zero-covid.png" onclick="op(this.src)">
+	  </a>
+	  </div>
+	
+	 <div class="column right">
+		<h4 class="featurette-heading ">dadadadaggInfrastructure-Based Object Detection and Tracking for Cooperative Driving Automation: A Survey </h4>
+		<h5 class="text-muted "> 
+		  <a href="https://www.researchgate.net/profile/Zhengwei_Bai" target="_blank">
+		  <b>Zhengwei Bai</b>
+		  </a>
+		  , Guoyuan Wu, Xuewei Qi, Yongkang Liu, Kentaro Oguchi, Matthew J. Barth 
+		</h5>
+		 
+		<h5> 
+	          <i>arXiv preprint arXiv:2201.11871</i> 
+		</h5>
+							
+		 <h5>
+			<a href="https://www.researchgate.net/publication/358232826_Infrastructure-Based_Object_Detection_and_Tracking_for_Cooperative_Driving_Automation_A_Survey" target="_blank">
+			[<u>Paper</u>]</a>, 
+			<a href="https://scholar.googleusercontent.com/scholar.bib?q=info:Q8CADO705esJ:scholar.google.com/&amp;output=citation&amp;scisdr=CgXN0AlHEPTx5Irg5Cc:AAGBfm0AAAAAYgXm_CfevXJrg613HgaHStIOJQsjTsNO&amp;scisig=AAGBfm0AAAAAYgXm_A8a9IN9CUchDuprGVBDWOFKcmC4&amp;scisf=4&amp;ct=citation&amp;cd=-1&amp;hl=en" target="_blank ">
+			[<u>CITE</u>]</a>
+		</h5>
+
+		</div>
+	</div>
+<hr class="featurette-divider ">
+------------------------------------------- -->
+
+<div align="center">
+  <h2 class="text-muted"> 
+     <a href="#top" target="_blank" style="color: #888888; font-weight:600; text-decoration: none;">
+	Back to top &nbsp; &nbsp; &nbsp;
+     </a>	 
+  </h2>
+<br>
+</div>
+	
+
+</div> 
+</body>
+</html>
+
+
+<!-- this div, boy and html are for <div class="container"> and body,html in the very beginning rows-->
+
+<!-- how to add drowdown menu
+https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61 -->
+<!-- <details open>
+<summary>Abstract</summary>
+<br>
+Well, you asked for it!
+</details> -->
+
+<!-- 
+change font size, color and color for hyperlink 
+https://stackoverflow.com/questions/69797708/change-the-color-of-embedded-hyperlink-in-rmarkdown-slidy
+https://stackoverflow.com/questions/66221677/how-to-change-hyperlink-color-in-github-markdown
+-->
+
+<!-- {% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.research reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+ -->
