@@ -12,7 +12,7 @@ title                    : "Rajveer Jat"
 title_separator          : "-"
 name                     : &name "Rajveer Jat"
 description              : # &description "personal description"
-url                      : https://rajveerjat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rajveerjat.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rajveerjat/rajveerjat.github.io"
 
