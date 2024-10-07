@@ -20,8 +20,8 @@ author_profile: true
 
 ## Instructor, Dept. of Economics, UC Riverside
 
-- Economic Development: Theory and Policy (with Applications in Python). (Summer 2024) <a href="http://rajveerjat.github.io/files/Teaching_files/ECON181_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Summer2024_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
-- Environmental Economics with Applications in R. (Summer 2023) <a href="http://rajveerjat.github.io/files/Teaching_files/ECON143_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Summer2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
+- Economic Development: Theory and Policy (with Applications in Python). (Summer 2024) <a href="http://rajveerjat.github.io/files/ECON181_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Summer2024_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
+- Environmental Economics with Applications in R. (Summer 2023) <a href="http://rajveerjat.github.io/files/ECON143_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Summer2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
 
 ****
 
