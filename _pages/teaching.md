@@ -27,12 +27,12 @@ author_profile: true
 
 ## Teaching Assistant, Dept. of Economics, UC Riverside
 
-- Econometric Theory III (Graduate level, Spring 2024) <a href="http://rajveerjat.github.io/files/Teaching_files/ECON205C_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Spring2024_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
+- Time Series Econometrics Theory (Graduate level, Spring 2024) <a href="http://rajveerjat.github.io/files/Teaching_files/ECON205C_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Spring2024_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
 - Statistics for Economics (Fall 2022 <a href="http://rajveerjat.github.io/files/Teaching_files/Fall2022_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a> , Winter 2024 <a href="http://rajveerjat.github.io/files/Teaching_files/Winter2024_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
-- Stock Market (Fall 2021 <a href="http://rajveerjat.github.io/files/Teaching_files/Fall2021_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>, Spring 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Spring2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>,
+- The Stock Market (Fall 2021 <a href="http://rajveerjat.github.io/files/Teaching_files/Fall2021_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>, Spring 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Spring2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>,
 Fall 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Fall2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
 - Intermediate Microeconomics (Summer 2022 <a href="http://rajveerjat.github.io/files/Teaching_files/Summer2022_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
-- Introductory Econometrics I (Winter 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Winter2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
+- Introductory Econometrics (Winter 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Winter2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
 - Introduction to Macroeconomics (Winter 2022 <a href="http://rajveerjat.github.io/files/Teaching_files/Winter2022_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
 - Introduction to Microeconomics (Spring 2022 <a href="http://rajveerjat.github.io/files/Teaching_files/Spring2022_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
 
