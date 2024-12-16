@@ -11,11 +11,10 @@ Welcome!
 
 I'm an Econ Ph.D. specializing in Econometrics at University of California, Riverside.
 
-I'm currently on the job market for the 2024-2025 academic year.
+I'm on the job market for the 2024-2025 academic year: <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a> and <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">JMP</a>..
 
-Research Areas: Econometric Theory (High-dim, Causal Inference, Non-parametrics), Machine Learning.
-
-Applications: Macro-Finance, Applied Micro (Development, Empirical IO), and Agriculture.
+Research Areas: Econometric Theory (High-dims, Causal Inference, Non-parametrics), Machine Learning. 
+Applied (Development, Empirical IO, Labor), Macro-Finance, and Agriculture.
 
 Please find my CV <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a> and Job Market Paper <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
