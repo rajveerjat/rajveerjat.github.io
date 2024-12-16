@@ -13,13 +13,13 @@ I'm an Econ Ph.D. specializing in Econometrics at University of California, Rive
 
 I'm currently on the job market for the 2024-2025 academic year.
 
-Research interests: Econometric Theory (High-dim, Causal Inference, Non-parametrics), Machine Learning.
+Research Areas: Econometric Theory (High-dim, Causal Inference, Non-parametrics), Machine Learning.
 
 Applications: Macro-Finance, Applied Micro (Development, Empirical IO), and Agriculture.
 
 Please find my CV <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a> and Job Market Paper <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-Serving as a Program Lead at the <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center</a>.
+Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center</a>, UCR.
 
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
@@ -31,16 +31,18 @@ Serving as a Program Lead at the <a href="https://gradquant.ucr.edu/" target="_b
 
 
 <!-- Line with three stars -->
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Dec 2024] Presenting at the [European Winter Meeting of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) in first-day first session on Machine Learning in Palma de Mallorca, Spain.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Oct 2024] Presenting at the [European Winter Meeting of the Econometric Society](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) to be held in Dec 2024 in Palma de Mallorca, Spain.
 
-<i class="fas fa-star flashing"></i> [Nov 2024] Presenting at the [34th Annual Midwest Econometrics Group Conference](https://gatton.uky.edu/meg2024) in Lexington, KY, USA.
+<i class="fas fa-star flashing"></i> [Oct 2024] Presenting at the [34th Annual Midwest Econometrics Group Conference](https://gatton.uky.edu/meg2024) to be held in Nov 2024 in Lexington, KY, USA.
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Sep 2024] Presented at the California Econometric Conference, hosted by UC Davis. [Learn more](https://www.gsb.stanford.edu/faculty-research/faculty/conferences/california-econometrics).
 
+<i class="fas fa-star flashing"></i>[Aug 2024] [The Agricultural Productivity Gap: Informality Matters](https://rajveerjat.com/files/APG.pdf) paper under review in the Journal of Development Economics.
+
+
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Appointed Lead of the [Graduate Quantitative Methods Center](https://gradquant.ucr.edu/) at UC Riverside.
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[July 2024] Paper under review in the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255), one of the top journals in the field.
-
+<i class="fas fa-star flashing"></i>[July 2024] [Kernel Three Pass Regression Filter ](https://rajveerjat.com/files/Kernel_3PRF.pdf) paper under review in the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255).
 <style>
   .flashing {
     animation: flash 1s infinite;
@@ -55,4 +57,3 @@ Serving as a Program Lead at the <a href="https://gradquant.ucr.edu/" target="_b
 
 ## Connect
 - Email: rjat001@ucr.edu 
-- [LinkedIn](https://www.linkedin.com/in/rajveeriitr/)  
