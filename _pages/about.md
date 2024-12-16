@@ -19,7 +19,7 @@ Applications: Macro-Finance, Applied Micro (Development, Empirical IO), and Agri
 
 Please find my CV <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a> and Job Market Paper <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
 
-Serving as a Program Lead Consultant at the <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center</a>.
+Serving as a Program Lead at the <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center</a>.
 
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
