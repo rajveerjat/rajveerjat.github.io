@@ -14,6 +14,7 @@ I'm an Econ Ph.D. specializing in Econometrics at University of California, Rive
 I'm currently on the job market for the 2024-2025 academic year.
 
 Research interests: Econometric Theory (High-dim, Causal Inference, Non-parametrics), Machine Learning.
+
 Applications: Macro-Finance, Applied Micro (Development, Empirical IO), and Agriculture.
 
 Please find my CV <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">here</a> and Job Market Paper <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">here</a>.
