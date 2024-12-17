@@ -22,10 +22,9 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <!-- Line with three stars -->
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Dec 2024] My paper, [The Agricultural Productivity Gap: Informality Matters](https://rajveerjat.com/files/APG.pdf), has received Revise and Resubmit from the [Journal of Development Economics](https://www.sciencedirect.com/journal/journal-of-development-economics#:~:text=The%20Journal%20of%20Development%20Economics,does%20not%20publish%20book%20reviews.).
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Dec 2024] Got R&R (Revise and Resubmit) from the [Journal of Development Economics](https://www.sciencedirect.com/journal/journal-of-development-economics#:~:text=The%20Journal%20of%20Development%20Economics,does%20not%20publish%20book%20reviews.). My paper with ([Bharat Ramaswami](https://scholar.google.co.in/citations?user=aGVkcp8AAAAJ&hl=en)), [The Agricultural Productivity Gap: Informality Matters](https://rajveerjat.com/files/APG.pdf), has received Revise and Resubmit. 
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Nov 2024] My paper, [Kernel Three Pass Regression Filter ](https://rajveerjat.com/files/Kernel_3PRF.pdf), has received Reject and Resubmit from the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255).
-
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Nov 2024] Got R&R (Reject and Resubmit) from the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255). My paper (with [Daanish Padha](https://daanishpadha.com/)), [Kernel Three Pass Regression Filter ](https://rajveerjat.com/files/Kernel_3PRF.pdf), has received R&R (Reject and Resubmit).
 
 <!-- Line with three stars -->
 <i class="fas fa-star flashing"></i> [Oct 2024] Paper accepted for presention at [European Winter Meeting of the Econometric Society, 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) to be held in Dec 2024 in Palma de Mallorca, Spain.
