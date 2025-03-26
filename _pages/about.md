@@ -22,7 +22,7 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 <!-- Line with two stars -->
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[March 2025] Paper accepted for presentation in 2025 International Association for Applied Econometrics Conference  (IAAE Italy 2025, [Link](https://sites.google.com/view/iaae2025/)).
+<i class="fas fa-star flashing"></i> [March 2025] Paper accepted for presentation in 2025 International Association for Applied Econometrics Conference  (IAAE Italy 2025, [Link](https://sites.google.com/view/iaae2025/)).
 
 
 <!-- Line with two stars -->
