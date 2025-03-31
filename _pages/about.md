@@ -23,7 +23,7 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 
 
 <!-- Line with two stars -->
-<i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 2025 World Congress of the Econometric Society (ESWC 2025, [Link](https://www.eswc2025.org/), happens once in five years) with a financial award of USD 2000. 
+<i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 13th World Congress of the Econometric Society (held once in five years) with a financial award of USD 2000, [Learn more](https://www.eswc2025.org/). 
 
 <!-- Line with two stars -->
 <i class="fas fa-star flashing"></i> [March 2025] Paper accepted for presentation in 2025 International Association for Applied Econometrics Conference  (IAAE Italy 2025, [Link](https://sites.google.com/view/iaae2025/)).
