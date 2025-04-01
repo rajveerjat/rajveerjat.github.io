@@ -34,7 +34,7 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Nov 2024] Got R&R (Reject and Resubmit) from the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255). My paper (with [Daanish Padha](https://daanishpadha.com/)), [Kernel Three Pass Regression Filter ](https://rajveerjat.com/files/Kernel_3PRF.pdf), has received R&R (Reject and Resubmit).
 
-<i class="fas fa-star flashing"></i> </i>[Nov 2024] Awarded Earle C. Anthony Graduate Student Travel Award (USD 2000)  in FALL 2024
+<i class="fas fa-star flashing"></i> [Nov 2024] Awarded Earle C. Anthony Graduate Student Travel Award (USD 2000)  in FALL 2024
 for traveling to international conferences by University of California, Riverside. 
 
 
