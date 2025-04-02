@@ -37,9 +37,10 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 <i class="fas fa-star flashing"></i> [Nov 2024] Awarded Earle C. Anthony Graduate Student Travel Award (USD 2000)  in FALL 2024
 for traveling to international conferences by University of California, Riverside. 
 
+<i class="fas fa-star flashing"></i> [Oct 2024] Paper accepted for presentation at [European Winter Meeting of the Econometric Society, 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) to be held in Dec 2024 in Palma de Mallorca, Spain.
 
 <!-- Line with three stars -->
-<i class="fas fa-star flashing"></i> [Oct 2024] Paper accepted for presention at [European Winter Meeting of the Econometric Society, 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) to be held in Dec 2024 in Palma de Mallorca, Spain.
+<i class="fas fa-star flashing"></i> [Oct 2024] Paper accepted for presentation at [19th Annual Conference on Economic Growth and Development, 2024](https://www.isid.ac.in/~acegd/acegd2024/index.html) organized by the Indian Statistical Institute. 
 
 <i class="fas fa-star flashing"></i> [Oct 2024] Paper accepted for presentation at the [34th Annual Midwest Econometrics Group Conference](https://gatton.uky.edu/meg2024) to be held in Nov 2024 in Lexington, KY, USA.
 
