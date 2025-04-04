@@ -23,7 +23,7 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 
 
 <!-- Line with two stars -->
-<i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 13th World Congress of the Econometric Society (held once in five years) with a financial award of USD 2000 (by the Econometric Society), [Learn more](https://www.eswc2025.org/). 
+<i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 13th World Congress of the Econometric Society (held once in five years) with a financial award of USD 2000 for being in top 10% candidates by The Econometric Society, [Learn more](https://www.eswc2025.org/). 
 
 <!-- Line with two stars -->
 <i class="fas fa-star flashing"></i> [March 2025] Paper accepted for presentation in 2025 International Association for Applied Econometrics Conference  (IAAE Italy 2025, [Learn More](https://sites.google.com/view/iaae2025/)).
@@ -34,7 +34,7 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>[Nov 2024] Got R&R (Reject and Resubmit) from the [Journal of Applied Econometrics](https://onlinelibrary.wiley.com/journal/10991255). My paper (with [Daanish Padha](https://daanishpadha.com/)), [Kernel Three Pass Regression Filter ](https://rajveerjat.com/files/Kernel_3PRF.pdf), has received R&R (Reject and Resubmit).
 
-<i class="fas fa-star flashing"></i> [Nov 2024] Awarded Earle C. Anthony Graduate Student Travel Award (USD 2000)  in FALL 2024
+<i class="fas fa-star flashing"></i> [Nov 2024] Awarded Earle C. Anthony Graduate Student Travel Award (USD 1950) in the FALL 2024
 for traveling to international conferences by University of California, Riverside. 
 
 <i class="fas fa-star flashing"></i> [Oct 2024] Paper accepted for presentation at [European Winter Meeting of the Econometric Society, 2024](https://www.econometricsociety.org/regional-activities/schedule/2024/12/16/2024-European-Winter-Meeting-Palma-de-Majorca-Spain) to be held in Dec 2024 in Palma de Mallorca, Spain.
