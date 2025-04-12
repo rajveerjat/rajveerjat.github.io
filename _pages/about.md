@@ -25,7 +25,7 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 <!-- Line with two stars -->
 <i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 13th World Congress of the Econometric Society (held once in five years) with a financial award of USD 2000 for being in top 10% candidates by The Econometric Society, [Learn more](https://www.eswc2025.org/). 
 
-<i class="fas fa-star flashing"></i> [April 2025] Best Presentation Award in Graduate Student Research Symposium at University of California, Riverside.
+<i class="fas fa-star flashing"></i> [April 2025] Best Presentation Award in Graduate Research Symposium at University of California, Riverside.
 
 
 <!-- Line with two stars -->
