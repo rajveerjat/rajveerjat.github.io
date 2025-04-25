@@ -38,14 +38,6 @@ Fall 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Fall2023_rev
 
 ****
 
-## Teaching Fellow, Ashoka University, India 
-
-- Python Programming (Graduate level, Winter 2020) 
-- Industrial Organizations (Winter 2020)
-
-****
-
-
 ## Selected Comments from Students
 
 -Mr. Jat is an effective teaching assistant. He goes over the material in a clear and easy manner. It is easy to comprehend what he is talking
