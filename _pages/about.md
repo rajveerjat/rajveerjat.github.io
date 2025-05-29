@@ -22,14 +22,22 @@ Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
-<!-- Line with two stars -->
+<!-- Lines with stars -->
+<i class="fas fa-star flashing"></i> [May 2025] Awarded Outstanding Teaching Award by the University of California, Riverside. 
+
 <i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 13th World Congress of the Econometric Society (held once in five years) with a financial award of USD 2000 for being in top 10% candidates by The Econometric Society, [Learn more](https://www.eswc2025.org/). 
 
-<i class="fas fa-star flashing"></i> [April 2025] Best Presentation Award in Graduate Research Symposium at University of California, Riverside.
+<i class="fas fa-star flashing"></i> [April 2025] Delivered a research talk at the Ontario Agricultural College, University of Guelph, Canada.
+
+<i class="fas fa-star flashing"></i> [April 2025] Best Presentation Award in Graduate Research Symposium at the University of California, Riverside.
 
 
 <!-- Line with two stars -->
 <i class="fas fa-star flashing"></i> [March 2025] Paper accepted for presentation in 2025 International Association for Applied Econometrics Conference  (IAAE Italy 2025, [Learn More](https://sites.google.com/view/iaae2025/)).
+
+<i class="fas fa-star flashing"></i> [Jan 2025] Delivered a research talk at Southern Illinois University Carbondale (SIUC), Illinois, USA.
+
+<i class="fas fa-star flashing"></i> [Jan 2025] Delivered a research talk at Gettysburg College, Pennsylvania, USA. 
 
 
 <!-- Line with two stars -->
