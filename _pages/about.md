@@ -21,7 +21,7 @@ Professional Applications: Forecasting, Finance, Data Science, Pricing in Indust
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<i class="fas fa-star flashing"></i> [OCT 2024] Paper accepted for presentation at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
+<i class="fas fa-star flashing"></i> [Oct 2025] Paper accepted for presentation at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>[Sep 2025] [Paper](https://www.sciencedirect.com/science/article/pii/S0304387825001683) published in the Journal of Development Economics (Considered the BEST journal of the field). 
 
