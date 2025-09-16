@@ -9,14 +9,13 @@ redirect_from:
 
 Welcome!
 
-I'm an Econ Ph.D. specializing in Econometrics at University of California, Riverside.
+I'm a PhD Econometrician at Western Digital, San Jose. Out of my intellectual curiosity, I pursue academic research in my personal time.  
 
-I'm on the job market for the 2024-2025 academic year: <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a> and <a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer">Job Market Paper</a>.
+I've graduated with PhD in Economics specializing in Econometrics at University of California, Riverside. Here is my <a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">thesis</a> and <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
-Research Areas: Econometric Theory (High-dims, Causal Inference, Non-parametrics), Machine Learning, 
-Applied (Development, Empirical IO, Labor), Macro-Finance, and Agriculture.
+Acadmic Research Areas: Econometric Theory (High-dims, Causal Inference, Non-parametrics), Machine Learning. 
+Professional & Application Areas: Finance, Data Science, Pricing Decision in Industrial Organizations.
 
-Serving as the Program Lead at the <a href="https://gradquant.ucr.edu/" target="_blank" rel="noopener noreferrer">Graduate Quantitative Methods Center</a>, UC Riverside.
 
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
