@@ -11,7 +11,7 @@ Welcome!
 
 I'm a PhD Econometrician at Western Digital, San Jose. Out of my intellectual curiosity, I pursue academic research in my personal time.  
 
-I've graduated with PhD in Economics specializing in Econometrics at University of California, Riverside. Here is my <a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">thesis</a> and <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+I've a PhD specializing in Econometrics at University of California, Riverside. Here is my <a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">thesis</a> and <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
 Acadmic Research Areas: Econometric Theory (High-dims, Causal Inference, Non-parametrics), Machine Learning. 
 Professional & Application Areas: Finance, Data Science, Pricing Decision in Industrial Organizations.
