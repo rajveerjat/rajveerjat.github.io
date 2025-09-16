@@ -17,14 +17,15 @@ I’ve earned a PhD in Econometrics from the University of California, Riverside
 
 Here is my <a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">PhD Thesis</a> and <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
-Academic Research Areas:Econometric Theory (High-dimensional Methods, Causal Inference, Nonparametrics), Machine Learning.
+Academic Research Areas: Econometric Theory (High-dims, Causal, Nonparametrics), Machine Learning.
 
-Professional Applications: Finance, Data Science, Pricing in Industrial Organizations.
+Professional Applications: Forecasting, Finance, Data Science, Pricing in Industrial Organizations.
+
 
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>[Sep 2025] Paper published in the [Journal of Development Economics](Considered the BEST journal of the field), [The Agricultural Productivity Gap: Informality Matters](https://www.sciencedirect.com/science/article/pii/S0304387825001683).
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>[Sep 2025] [Paper](https://www.sciencedirect.com/science/article/pii/S0304387825001683) published in the Journal of Development Economics (Considered the BEST journal of the field). 
 
 <!-- Lines with stars -->
 
@@ -33,6 +34,8 @@ Professional Applications: Finance, Data Science, Pricing in Industrial Organiza
 <i class="fas fa-star flashing"></i> [Aug 2025] Paper accepted for weekly seminar at Indian Statistical Institue, Delhi Center.
 
 <i class="fas fa-star flashing"></i> [Aug 2025] Gave a research talk at Indian Institute of Technology (IIT) Delhi.
+
+<i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society<\u> in Seoul, South Korea.
 
 <i class="fas fa-star flashing"></i> [June 2025] Joined Western Digital Corporation in San Jose.  
 
