@@ -9,10 +9,6 @@ redirect_from:
 
 Welcome!
 
-Professionally, I make sense of data at Western Digital, San Jose as a PhD Econometrician.
-
-Out of intellectual curiosity, I pursue academic quantitative research in my free time.
-
 I’ve earned a PhD in Econometrics from the University of California, Riverside.
 
 Here is my <a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">PhD Thesis</a> and <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
