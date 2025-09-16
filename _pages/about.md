@@ -31,7 +31,7 @@ Professional Applications: Forecasting, Finance, Data Science, Pricing in Indust
 
 <i class="fas fa-star flashing"></i> [Aug 2025] Gave a research talk at Indian Institute of Technology (IIT) Delhi.
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society<\u> in Seoul, South Korea.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society</u> in Seoul, South Korea.
 
 <i class="fas fa-star flashing"></i> [June 2025] Joined Western Digital Corporation in San Jose.  
 
