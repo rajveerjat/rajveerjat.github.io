@@ -25,13 +25,13 @@ Professional Applications: Forecasting, Finance, Data Science, Pricing in Indust
 
 <!-- Lines with stars -->
 
-<i class="fas fa-star flashing"></i> [Sep 2025] Presented paper at the 2025 California Econometrics Conference. 
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [Sep 2025] Presented paper at the 2025 California Econometrics Conference. 
 
 <i class="fas fa-star flashing"></i> [Aug 2025] Paper accepted for weekly seminar at Indian Statistical Institue, Delhi Center.
 
 <i class="fas fa-star flashing"></i> [Aug 2025] Gave a research talk at Indian Institute of Technology (IIT) Delhi.
 
-<i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society<\u> in Seoul, South Korea.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society<\u> in Seoul, South Korea.
 
 <i class="fas fa-star flashing"></i> [June 2025] Joined Western Digital Corporation in San Jose.  
 
@@ -41,7 +41,9 @@ Professional Applications: Forecasting, Finance, Data Science, Pricing in Indust
 
 <i class="fas fa-star flashing"></i> [May 2025] Awarded Outstanding Teaching Award by the University of California, Riverside. 
 
-<i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 13th World Congress of the Econometric Society (held once in five years) with a financial award of USD 2000 for being in top 10% candidates by The Econometric Society, [Learn more](https://www.eswc2025.org/). 
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [April 2025] Received financial award of USD 2000 for being in top researchers presenting at the 13th World Congress of the Econometric Society. 
+
+<i class="fas fa-star flashing"></i> [April 2025] Paper accepted for presentation in the 13th World Congress of the Econometric Society (held once in five years)  [Learn more](https://www.eswc2025.org/). 
 
 <i class="fas fa-star flashing"></i> [April 2025] Delivered a research talk at the Ontario Agricultural College, University of Guelph, Canada.
 
