@@ -13,9 +13,9 @@ I’ve earned a PhD in Econometrics from the University of California, Riverside
 
 Here is my <a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">PhD Thesis</a> and <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
 
-Academic Research Areas: Econometric Theory (High-dims, Causal, Nonparametrics), Machine Learning.
+Research Areas: Econometric Theory (High-dims, Causal, Nonparametrics), Machine Learning.
 
-Professional Applications: Forecasting, Finance, Data Science, Pricing in Industrial Organizations.
+Application Expertise: Forecasting, Finance, Data Science, Pricing in Industrial Organizations.
 
 
 ## News
