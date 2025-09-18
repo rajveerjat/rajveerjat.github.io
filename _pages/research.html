@@ -154,37 +154,91 @@ img {vertical-align: middle;}
 </h1>
 </div>
 	
-	
 
 <!-- Job Market Paper -->
 <hr class="featurette-divider ">
 <div align="center" id="Pub">
-<h1> Job Market Paper </h1> <br>
+<h1> Peer-Reviewd Publications</h1> <br>
 </div>
 
-	
-<!-- SIF -->
+<!-- APG -->
 <hr class="featurette-divider ">
-<div id="SIF">
-<span style="font-size:20px; color: black; font-weight:bold"> Sufficient Instruments Filter</span><br>
-<span style="font-size:17px"> <br></span>
+<div id="APG">
+<span style="font-size:20px; color: black; font-weight:bold"> The Agricultural Productivity Gap: Informality Matters </span><br>
+<span style="font-size:17px"> (with Bharat Ramaswami) <br></span>
+<span style="font-size:14px"> [Current Status: Forthcoming in the <u>Journal of Development Economics</u>.] <br>
+	                       </span>
+<span style="font-size:14px"> [Media Coverage by <a href="https://www.ideasforindia.in/topics/agriculture/the-agricultural-productivity-gap-informality-matters.html">Ideas for India</a>.] <br>
+	                       </span>
  
 </div>
 <div class="row">
-	<div class="column left">
-	 <img class="img-thumbnail img-responsive " src="../images/SIF_archi.png" onclick="op(this.src)">		
-	</div>
-	
-	 <div class="column right">
-		 <h3 class="featurette-heading ">  
-		 This paper introduces a novel procedure to filter out sufficient information from many instruments for the estimation
-		 of parameters in regression models with endogenous regressors. This method allows correlated and even invalid instruments. 
-	         This technique draws its merit from the ability to incorporate supervision, the flexibility to accommodate non-linearity, 
-	         and the capability for sufficient dimension reduction. </h3>
-		
-		 
+	<!-- Second Slideshow Box -->
+     <div class="column left">
+        <div class="slideshow-container" id="slideshow2">
+         <div class="mySlides2 fade">
+         <div class="numbertext">1 / 3</div>
+          <img src="../images/APG.png" style="width:100%" onclick="plusSlides2(-1)">
+         <div class="text">Productivity Gap --- Informality</div>
+         </div>
+      
+       <div class="mySlides2 fade">
+        <div class="numbertext">2 / 3</div>
+         <img src="../images/APG_meme.png" style="width:100%" onclick="plusSlides2(-1)">
+         <div class="text">Informed View of Productivity Gap</div>
+       </div>
+
+      <div class="mySlides2 fade">
+        <div class="numbertext">3 / 3</div>
+        <img src="../images/APG_meme2.png" style="width:100%" onclick="plusSlides2(+1)">
+        <div class="text">Policy Implication</div>
+      </div>
+
+      <a class="prev" onclick="plusSlides2(-1)">❮</a>
+      <a class="next" onclick="plusSlides2(1)">❯</a>
+    </div>
+
+      <div style="text-align:center">
+        <span class="dot" onclick="currentSlide2(1)"></span> 
+        <span class="dot" onclick="currentSlide2(2)"></span> 
+        <span class="dot" onclick="currentSlide2(3)"></span>   
+      </div>
+
+  <script>
+    let slideIndex2 = 1;
+    showSlides2(slideIndex2);
+
+    function plusSlides2(n) {
+      showSlides2(slideIndex2 += n);
+    }
+
+    function currentSlide2(n) {
+      showSlides2(slideIndex2 = n);
+    }
+
+    function showSlides2(n) {
+      let i;
+      let slides = document.getElementsByClassName("mySlides2");
+      let dots = document.getElementsByClassName("dot");
+      if (n > slides.length) { slideIndex2 = 1 }
+      if (n < 1) { slideIndex2 = slides.length }
+      for (i = 0; i < slides.length; i++) {
+        slides[i].style.display = "none";  
+      }
+      for (i = 0; i < dots.length; i++) {
+        dots[i].className = dots[i].className.replace(" active", "");
+      }
+      slides[slideIndex2 - 1].style.display = "block";  
+      dots[slideIndex2 - 1].className += " active";
+       }
+    </script>
+   </div>
+  	 
+  <div class="column right">
+		<h3 class="featurette-heading "> We find that the primary dualism in development is between the formal non-farm sector and the informal
+                  sector including agriculture. Non-parametric econometric techniques are used for analysis.</h3>
 		 <h3>
-			<a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; ">
+			<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001683" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
 			<b>[Paper]</b></a>&nbsp;
 		</h3> 
 		 
@@ -192,22 +246,23 @@ img {vertical-align: middle;}
 		 <details>
 		<summary>Abstract</summary>
 		<br>
-		 This paper introduces a novel five-layered deep learning-based tractable procedure to filter out sufficient information 
-                 from many instruments for estimating parameters in regression models with endogenous regressors. 
-                 The method draws its merit from three key properties: the ability to incorporate supervision, 
-                 the flexibility to accommodate non-linearity, and the capability for sufficient dimension reduction. 
-                 This method is consistent and asymptotically normal when many instruments are correlated.
-                 Simulation exercises show that this method consistently achieves lower bias and root mean squared error 
-                 compared to competing benchmarks, across many specifications.  Two 
-                 real-world applications in industrial organizations(IO) and finance are considered, yielding meaningful insights into causal relationships. 
-                 The method remains robust when the number of instruments exceeds the sample size, and performs well with weak and even invalid
-                 observed instruments, as long as there exists at least one linear combination of common factors among the 
-                 observed instruments that serves as a valid instrument.
-		</details>
+		 The measured agricultural productivity gap (APG) in developing countries typically compares agriculture with the entire non-farm economy, 
+			 implicitly treating the latter as homogeneous. In developing countries, most non-farm employment is informal, concentrated in small, 
+			 unregistered enterprises with low productivity. This paper compares the productivity of agriculture to the informal and formal non-farm 
+			 sectors in India. Using Indian sectoral data from the India KLEMS database linked with nationally representative labor surveys, 
+			 we decompose the non-farm economy into formal and informal segments and adjust productivity measures for differences in hours worked,
+			 human capital, and labor's share of value-added. We find that the APG is almost entirely driven by the small formal non-farm sector. 
+			 The gap with the informal sector is negligible. Between 63 and 75 % of non-farm workers are in informal employment dominated industries 
+			 that are not more productive than agriculture. These results reframe the APG as a formal–informal divide.
+                 </details>
 		 
-	</div>
+		</div>
 </div>
 
+	
+
+
+	
 
 
 
@@ -339,84 +394,38 @@ img {vertical-align: middle;}
 		</div>
 </div>
 
-<!-- APG -->
+	
+<!-- SIF -->
 <hr class="featurette-divider ">
-<div id="APG">
-<span style="font-size:20px; color: black; font-weight:bold"> The Agricultural Productivity Gap: Informality Matters </span><br>
-<span style="font-size:17px"> (with Bharat Ramaswami) <br></span>
-<span style="font-size:14px"> [Current Status: Revise and Resubmit (R&R) at the <u>Journal of Development Economics</u>.] <br>
+<div id="SIF">
+<span style="font-size:20px; color: black; font-weight:bold"> Sufficient Instruments Filter</span><br>
+<span style="font-size:17px"> <br></span>
+<span style="font-size:14px"> [Accepted for Presentation in The 35th Annual Midwest Econometrics Group Conference, USA] <br>
 	                       </span>
-<span style="font-size:14px"> [Media Coverage by <a href="https://www.ideasforindia.in/topics/agriculture/the-agricultural-productivity-gap-informality-matters.html">Ideas for India</a>.] <br>
+<span style="font-size:14px"> [Accepted for Presentation in The 2025 California Econometrics Conference] <br>
+	                       </span>
+<span style="font-size:14px"> [Invited talks at: Southern Illinois University Carbondale, Gettysburg College Pennsylvania, University of Guelph Canada] <br>
+	                       </span>
+<span style="font-size:14px"> [Invited talks at: Indian Statistical Institute Delhi and Indian Institute of Technology Delhi] <br>
 	                       </span>
  
+
 </div>
 <div class="row">
-	<!-- Second Slideshow Box -->
-     <div class="column left">
-        <div class="slideshow-container" id="slideshow2">
-         <div class="mySlides2 fade">
-         <div class="numbertext">1 / 3</div>
-          <img src="../images/APG.png" style="width:100%" onclick="plusSlides2(-1)">
-         <div class="text">Productivity Gap --- Informality</div>
-         </div>
-      
-       <div class="mySlides2 fade">
-        <div class="numbertext">2 / 3</div>
-         <img src="../images/APG_meme.png" style="width:100%" onclick="plusSlides2(-1)">
-         <div class="text">Informed View of Productivity Gap</div>
-       </div>
-
-      <div class="mySlides2 fade">
-        <div class="numbertext">3 / 3</div>
-        <img src="../images/APG_meme2.png" style="width:100%" onclick="plusSlides2(+1)">
-        <div class="text">Policy Implication</div>
-      </div>
-
-      <a class="prev" onclick="plusSlides2(-1)">❮</a>
-      <a class="next" onclick="plusSlides2(1)">❯</a>
-    </div>
-
-      <div style="text-align:center">
-        <span class="dot" onclick="currentSlide2(1)"></span> 
-        <span class="dot" onclick="currentSlide2(2)"></span> 
-        <span class="dot" onclick="currentSlide2(3)"></span>   
-      </div>
-
-  <script>
-    let slideIndex2 = 1;
-    showSlides2(slideIndex2);
-
-    function plusSlides2(n) {
-      showSlides2(slideIndex2 += n);
-    }
-
-    function currentSlide2(n) {
-      showSlides2(slideIndex2 = n);
-    }
-
-    function showSlides2(n) {
-      let i;
-      let slides = document.getElementsByClassName("mySlides2");
-      let dots = document.getElementsByClassName("dot");
-      if (n > slides.length) { slideIndex2 = 1 }
-      if (n < 1) { slideIndex2 = slides.length }
-      for (i = 0; i < slides.length; i++) {
-        slides[i].style.display = "none";  
-      }
-      for (i = 0; i < dots.length; i++) {
-        dots[i].className = dots[i].className.replace(" active", "");
-      }
-      slides[slideIndex2 - 1].style.display = "block";  
-      dots[slideIndex2 - 1].className += " active";
-       }
-    </script>
-   </div>
-  	 
-  <div class="column right">
-		<h3 class="featurette-heading "> We find that the primary dualism in development is between the formal non-farm sector and the informal
-                  sector including agriculture. Non-parametric econometric techniques are used for analysis.</h3>
+	<div class="column left">
+	 <img class="img-thumbnail img-responsive " src="../images/SIF_archi.png" onclick="op(this.src)">		
+	</div>
+	
+	 <div class="column right">
+		 <h3 class="featurette-heading ">  
+		 This paper introduces a novel procedure to filter out sufficient information from many instruments for the estimation
+		 of parameters in regression models with endogenous regressors. This method allows correlated and even invalid instruments. 
+	         This technique draws its merit from the ability to incorporate supervision, the flexibility to accommodate non-linearity, 
+	         and the capability for sufficient dimension reduction. </h3>
+		
+		 
 		 <h3>
-			<a href="http://rajveerjat.github.io/files/APG.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+			<a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; ">
 			<b>[Paper]</b></a>&nbsp;
 		</h3> 
 		 
@@ -424,19 +433,20 @@ img {vertical-align: middle;}
 		 <details>
 		<summary>Abstract</summary>
 		<br>
-		  The literature has debated whether the productivity gap between agriculture and non-agriculture
-                  reflects mobility barriers or selection. Non-agriculture is not a homogeneous category. In developing countries,
-                  most of the non-agricultural employment is informal. Could it be that the productivity gap is driven by formal
-                  sector firms that are numerically small but economically substantial? This paper compares the productivity
-                  of agriculture to the informal and formal non-farm sectors in India. The comparison controls for sectoral
-                  differences in hours worked, human capital, and labor share of value added. The paper finds substantial
-                  productivity gaps with the formal sector but small and negligible gaps with the informal non-farm sector.
-                  Between 40-50% of non-farm workers are in sectors not more productive than agriculture. These findings
-                  suggest that the primary dualism in development is between the formal non-farm sector and the informal
-                  sector including agriculture.
-                 </details>
+		 This paper introduces a novel five-layered deep learning-based tractable procedure to filter out sufficient information 
+                 from many instruments for estimating parameters in regression models with endogenous regressors. 
+                 The method draws its merit from three key properties: the ability to incorporate supervision, 
+                 the flexibility to accommodate non-linearity, and the capability for sufficient dimension reduction. 
+                 This method is consistent and asymptotically normal when many instruments are correlated.
+                 Simulation exercises show that this method consistently achieves lower bias and root mean squared error 
+                 compared to competing benchmarks, across many specifications.  Two 
+                 real-world applications in industrial organizations(IO) and finance are considered, yielding meaningful insights into causal relationships. 
+                 The method remains robust when the number of instruments exceeds the sample size, and performs well with weak and even invalid
+                 observed instruments, as long as there exists at least one linear combination of common factors among the 
+                 observed instruments that serves as a valid instrument.
+		</details>
 		 
-		</div>
+	</div>
 </div>
 
 
