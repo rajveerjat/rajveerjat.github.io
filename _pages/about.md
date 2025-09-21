@@ -33,15 +33,15 @@ Application Expertise: Forecasting, Finance, Data Science, Pricing in Industrial
 
 <i class="fas fa-star flashing"></i> [Aug 2025] Gave a research talk at Indian Institute of Technology (IIT) Delhi.
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society</u> in Seoul, South Korea. 
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society</u> in Seoul, South Korea.
 
 <i class="fas fa-star flashing"></i> [June 2025] Said goodbye to [GradQuant](https://gradquant.ucr.edu/) office where I served as the Head for 2024-25.
 
 <i class="fas fa-star flashing"></i> [June 2025] Joined Western Digital Corporation in San Jose.  
 
-<i class="fas fa-star flashing"></i> [June 2025] Graduated with PhD in Economics from the University of California Riverside. [Pictures](https://drive.google.com/drive/folders/1N3D09IK0m17JpCIaavQb6asZdZbu0MNj?usp=sharing)
+<i class="fas fa-star flashing"></i> [June 2025] Graduated with PhD in Economics from the University of California Riverside, ([Pictures](https://drive.google.com/drive/folders/1N3D09IK0m17JpCIaavQb6asZdZbu0MNj?usp=sharing)).
 
-<i class="fas fa-star flashing"></i> [June 2025] Defended PhD at the University of California Riverside. [Pictures](https://drive.google.com/drive/folders/1fgSVJVuRGopWwEjnBq3r0GocauOEpA0u?usp=sharing)
+<i class="fas fa-star flashing"></i> [June 2025] Defended PhD at the University of California Riverside, ([Pictures]).(https://drive.google.com/drive/folders/1fgSVJVuRGopWwEjnBq3r0GocauOEpA0u?usp=sharing)
 
 <i class="fas fa-star flashing"></i> [May 2025] Awarded Outstanding Teaching Award by the University of California, Riverside. 
 
