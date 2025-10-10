@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome!
 
-I’ve earned a PhD in Econometrics from the University of California, Riverside.
+I make sense of data at Western Digital, San Jose.
 
-Here is my <a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">PhD Thesis</a> and <a href="http://rajveerjat.github.io/files/resume.pdf" target="_blank" rel="noopener noreferrer">CV</a>.
+I hold a PhD in Econometrics from the University of California, Riverside (<a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">PhD Thesis</a>). 
 
 Research Areas: Econometric Theory (High-dims, Causal, Nonparametrics), Machine Learning.
 
