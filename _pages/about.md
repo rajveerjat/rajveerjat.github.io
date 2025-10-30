@@ -26,7 +26,11 @@ Application Expertise: Forecasting, Finance, Data Science, Pricing in Industrial
 
 <i class="fas fa-star flashing"></i> [Dec 2025] Paper accepted for presentation at the European Winter Meeting of the Econometrics Society 2025, .
 
-<i class="fas fa-star flashing"></i> [Oct 2025] Presented paper accepted at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
+<i class="fas fa-star flashing"></i> [Nov 2025] Started judging/referee service for Macroeconomic Dynamics, a peer-reviewed academic journal published by Cambridge University Press. 
+
+<i class="fas fa-star flashing"></i> [Oct 2025] Started serving as a member of the organizing committee of [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2025/committees.html) to judge/referee papers in econometric methodology domain.  
+
+<i class="fas fa-star flashing"></i> [Oct 2025] Presented paper at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>[Sep 2025] [Paper](https://www.sciencedirect.com/science/article/pii/S0304387825001683) published in the Journal of Development Economics (Considered the BEST journal of the field). 
 
