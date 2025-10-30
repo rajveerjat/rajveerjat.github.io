@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I make sense of data at Western Digital, San Jose.
+I work at Western Digital in San Jose and pursue academic research in my free time.
 
 I hold a PhD in Econometrics from the University of California, Riverside (<a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">PhD Thesis</a>). 
 
@@ -21,7 +21,12 @@ Application Expertise: Forecasting, Finance, Data Science, Pricing in Industrial
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<i class="fas fa-star flashing"></i> [Oct 2025] Paper accepted for presentation at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
+
+<i class="fas fa-star flashing"></i> [Jan 2026] Paper accepted for presentation at the the 2026 Asia Meeting of the Econometric Society (AMES-CSW 2026).
+
+<i class="fas fa-star flashing"></i> [Dec 2025] Paper accepted for presentation at the European Winter Meeting of the Econometrics Society 2025, .
+
+<i class="fas fa-star flashing"></i> [Oct 2025] Presented paper accepted at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>[Sep 2025] [Paper](https://www.sciencedirect.com/science/article/pii/S0304387825001683) published in the Journal of Development Economics (Considered the BEST journal of the field). 
 
