@@ -22,9 +22,9 @@ Application Expertise: Forecasting, Finance, Data Science, Pricing in Industrial
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
-<i class="fas fa-star flashing"></i> [Jan 2026] Paper accepted for presentation at the the 2026 Asia Meeting of the Econometric Society (AMES-CSW 2026).
+<i class="fas fa-star flashing"></i> [Jan 2026] Paper accepted for presentation at the 2026 Asia Meeting of the Econometric Society (AMES-CSW 2026).
 
-<i class="fas fa-star flashing"></i> [Dec 2025] Paper accepted for presentation at the European Winter Meeting of the Econometrics Society 2025, .
+<i class="fas fa-star flashing"></i> [Dec 2025] Paper accepted for presentation at the European Winter Meeting of the Econometrics Society 2025.
 
 <i class="fas fa-star flashing"></i> [Nov 2025] Started judging/referee service for Macroeconomic Dynamics, a peer-reviewed academic journal published by Cambridge University Press. 
 
