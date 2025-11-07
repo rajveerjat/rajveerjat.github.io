@@ -5,20 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+## Awards
+-Outstanding Teaching Assistant, University of California, 2025. 
 
-
-## Lead, Graduate Quantitative Methods Center, UC Riverside
-
-- Basic Quantitative Methods for Finance  (for MBA, Masters in Finance, MS in Financial Analytics, Fall 2024)
-- High-dimensional Statistics: Making Sense of Big Data (for PhDs and MS students, Fall 2024)
-- Non-parametric Regressions: Inferences and Implementation in R (for PhDs and MS students,  Winter 2025)
-- Macroeconomics and Time Series Econometrics  (for Grad students,  Winter 2025)
-- Causal Inference Techniques (for Grad students,  Winter 2025)
-
-****
-
-
-## Instructor, Dept. of Economics, UC Riverside
+## Independent Instructor, Dept. of Economics, UC Riverside
 
 - Economic Development: Theory and Policy (with Applications in Python). (Summer 2024) <a href="http://rajveerjat.github.io/files/ECON181_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Summer2024_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
 - Environmental Economics with Applications in R. (Summer 2023) <a href="http://rajveerjat.github.io/files/ECON143_syllabus.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/Summer2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
@@ -35,6 +25,17 @@ Fall 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Fall2023_rev
 - Introductory Econometrics (Winter 2023 <a href="http://rajveerjat.github.io/files/Teaching_files/Winter2023_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
 - Introduction to Macroeconomics (Winter 2022 <a href="http://rajveerjat.github.io/files/Teaching_files/Winter2022_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
 - Introduction to Microeconomics (Spring 2022 <a href="http://rajveerjat.github.io/files/Teaching_files/Spring2022_reviews.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>)
+
+****
+
+
+## Lead, Graduate Quantitative Methods Center, UC Riverside
+
+- Basic Quantitative Methods for Finance  (for MBA, Masters in Finance, MS in Financial Analytics, Fall 2024)
+- High-dimensional Statistics: Making Sense of Big Data (for PhDs and MS students, Fall 2024)
+- Non-parametric Regressions: Inferences and Implementation in R (for PhDs and MS students,  Winter 2025)
+- Macroeconomics and Time Series Econometrics  (for Grad students,  Winter 2025)
+- Causal Inference Techniques (for Grad students,  Winter 2025)
 
 ****
 
