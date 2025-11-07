@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Awards
--Outstanding Teaching Assistant, University of California, 2025. 
+-Outstanding Teaching Assistant, University of California Riverside in 2025. 
 
 ## Independent Instructor, Dept. of Economics, UC Riverside
 
