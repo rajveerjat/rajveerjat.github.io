@@ -26,8 +26,6 @@ Secondary Areas: Finance, Development, IO, Macro.
 
 <i class="fas fa-star flashing"></i> [Dec 2025] Paper accepted for presentation at the European Winter Meeting of the Econometrics Society 2025.
 
-<i class="fas fa-star flashing"></i> [Nov 2025] Started judging/refereeing service for [Macroeconomic Dynamics](https://www.cambridge.org/core/journals/macroeconomic-dynamics), a peer-reviewed academic journal published by Cambridge University Press. 
-
 <i class="fas fa-star flashing"></i> [Oct 2025] Started serving as a member of the organizing committee of [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2025/committees.html) to judge/referee papers in econometric methodology.  
 
 <i class="fas fa-star flashing"></i> [Oct 2025] Presented paper at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
