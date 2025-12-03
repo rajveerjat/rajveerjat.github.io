@@ -30,7 +30,7 @@ Secondary Areas: Finance, Development, IO, Macro.
 
 <i class="fas fa-star flashing"></i> [Oct 2025] Presented paper at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
 
-<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>[Sep 2025] [Paper](https://www.sciencedirect.com/science/article/pii/S0304387825001683) published in the Journal of Development Economics (Considered the BEST journal of the field). 
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>  <i class="fas fa-star flashing"></i>[Sep 2025] [Paper](https://www.sciencedirect.com/science/article/pii/S0304387825001683) published in the Journal of Development Economics.
 
 <!-- Lines with stars -->
 
