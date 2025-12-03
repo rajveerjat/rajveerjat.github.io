@@ -9,9 +9,9 @@ redirect_from:
 
 Welcome!
 
-I work at Western Digital in San Jose and pursue academic research in my free time.
+I work at AI/ML Lab, Western Digital in San Jose and pursue academic research in my free time.
 
-I hold a PhD in Econometrics from the University of California, Riverside (<a href="https://escholarship.org/uc/item/95d9k9rc" target="_blank" rel="noopener noreferrer">PhD Thesis</a>). 
+I hold a PhD in Econometrics from the University of California, Riverside.
 
 Research Areas: Econometric Theory (High-dims, Causal, Nonparametrics), Machine Learning.
 
