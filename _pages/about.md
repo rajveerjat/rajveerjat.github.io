@@ -13,7 +13,7 @@ I work at AI/ML Lab, Western Digital in San Jose and pursue academic research in
 
 I hold a PhD in Econometrics from the University of California, Riverside.
 
-Primary Areas: Econometric Theory (High-dims, Causal, Nonparametrics), Machine Learning.
+Primary Areas: Econometric Methods (High-dims, Causal, Nonparametrics), Machine Learning.
 
 Secondary Areas: Finance, Development, IO, Macro.
 
