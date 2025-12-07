@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I work at AI/ML Lab, Western Digital in San Jose and pursue academic research in my free time.
+I work at AI/ML team, Western Digital in San Jose and pursue academic research in my free time.
 
 I hold a PhD in Econometrics from the University of California, Riverside.
 
