@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I work at AI/ML team, Western Digital in San Jose and pursue academic research in my free time.
+I work at AI/ML team in Western Digital Corp,  teach part-time at UC Berkeley and pursue academic research in my free time.
 
 I hold a PhD in Econometrics from the University of California, Riverside.
 
@@ -21,6 +21,8 @@ Secondary Areas: Finance, Development, IO, Macro.
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
+
+<i class="fas fa-star flashing"></i> [Apr 2026] Will be teaching in Dept. of Economics at UC Berkeley.
 
 <i class="fas fa-star flashing"></i> [Jan 2026] Paper accepted for presentation at the 2026 Asia Meeting of the Econometric Society (AMES-CSW 2026).
 
