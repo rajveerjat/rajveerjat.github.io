@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome!
 
-I work at AI/ML team in Western Digital Corp,  teach part-time at UC Berkeley and pursue academic research in my free time.
+I am part of the AI/ML team at Western Digital. I also teach part-time at the University of California, Berkeley, and pursue academic research out of personal interest.
 
 I hold a PhD in Econometrics from the University of California, Riverside.
 
