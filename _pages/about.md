@@ -9,11 +9,11 @@ redirect_from:
 
 Welcome!
 
-I am part of the AI/ML team at Western Digital. I also teach part-time at UC Berkeley, and pursue academic research out of personal interest.
+I am part of the AI/ML team at Western Digital. Out of personal interests, I teach at UC Berkeley and pursue academic research.
 
 I hold a PhD in Econometrics from the University of California, Riverside.
 
-Primary Areas: Econometric Methods (High-dims, Causal, Nonparametrics), Machine Learning.
+Primary Areas: Econometric Methods (High-dimensions, Causal, Nonparametrics), Machine Learning.
 
 Secondary Areas: Finance, Development, IO, Macro.
 
@@ -22,7 +22,9 @@ Secondary Areas: Finance, Development, IO, Macro.
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
 
-<i class="fas fa-star flashing"></i> [Apr 2026] Will be teaching in Dept. of Economics at UC Berkeley.
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  [June 2026] Will be teaching in the Dept. of Economics at UC Berkeley.
+
+<i class="fas fa-star flashing"></i> [Mar 2026] Article published in [VoxDev](https://voxdev.org/topic/agriculture/rethinking-agricultural-productivity-gap-informality-matters).
 
 <i class="fas fa-star flashing"></i> [Jan 2026] Paper accepted for presentation at the 2026 Asia Meeting of the Econometric Society (AMES-CSW 2026).
 
