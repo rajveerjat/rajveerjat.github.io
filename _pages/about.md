@@ -9,13 +9,13 @@ redirect_from:
 
 Welcome!
 
-I am part of the AI/ML team at Western Digital. Out of personal interests, I teach at UC Berkeley and pursue academic research.
+I work in AI/ML team at Western Digital. Out of personal interests, I teach at UC Berkeley and pursue academic research.
 
-I hold a PhD in Econometrics from the University of California, Riverside.
+I hold a PhD in Econometrics from the University of California, Riverside, MS with academic distinction from the Indian Statistical Institute and Bachelors in Electrical Engg from IIT Roorkee. 
 
-Primary Areas: Econometric Methods (High-dimensions, Causal, Nonparametrics), Machine Learning.
+Research Areas: Econometric Methods (High-dimensions, Causal, Nonparametrics), Machine Learning.
 
-Secondary Areas: Finance, Development, IO, Macro.
+Application Areas: Finance, Development, IO, Macro.
 
 
 ## News
