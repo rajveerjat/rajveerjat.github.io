@@ -21,6 +21,8 @@ Application Areas: Finance, Development, IO, Macro.
 ## News
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
+<i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  [June 2026] Paper accepted for oral presentation in 2026 North American Summer Meeting (NASM) of the Econometric Society, Atlanta, GA, USA.
+
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i>  [June 2026] Will be teaching in the Dept. of Economics at UC Berkeley.
 
