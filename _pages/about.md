@@ -32,7 +32,7 @@ Application Areas: Finance, Development, IO, Macro.
 
 <i class="fas fa-star flashing"></i> [Dec 2025] Paper accepted for presentation at the European Winter Meeting of the Econometrics Society 2025.
 
-<i class="fas fa-star flashing"></i> [Oct 2025] Started serving as a member of the organizing committee of [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2025/committees.html) to judge/referee papers in econometric methodology.  
+<i class="fas fa-star flashing"></i> [Oct 2025] Started serving as a member of the Program Committee of [Annual Conference on Economic Growth and Development](https://www.isid.ac.in/~acegd/acegd2025/committees.html) to judge/referee papers in econometric methodology.  
 
 <i class="fas fa-star flashing"></i> [Oct 2025] Presented paper at the 35th Annual Midwest Econometrics Group Conference, UIUC, IL, USA.
 
@@ -48,7 +48,7 @@ Application Areas: Finance, Development, IO, Macro.
 
 <i class="fas fa-star flashing"></i> <i class="fas fa-star flashing"></i> [April 2025] Presented paper in the <u>13th World Congress of the Econometric Society</u> in Seoul, South Korea.
 
-<i class="fas fa-star flashing"></i> [June 2025] Said goodbye to [GradQuant](https://gradquant.ucr.edu/) office where I served as the Head for 2024-25.
+<i class="fas fa-star flashing"></i> [June 2025] Concluded my term as Head of the Graduate Quantitative Methods Center (GradQuant), University of California, Riverside (2024–25).
 
 <i class="fas fa-star flashing"></i> [June 2025] Joined Western Digital Corporation in San Jose.  
 
