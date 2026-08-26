@@ -5,8 +5,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
 ## Awards
 -Outstanding Teaching Assistant, University of California Riverside in 2025. 
+
+## Independent Instructor, Dept. of Economics, UC Berkeley
+
+- Economic Development  (Summer 2026)
+- <a href="http://rajveerjat.github.io/files/Syllabus_Econ_N171.pdf" target="_blank" rel="noopener noreferrer">[Syllabus]</a>, <a href="http://rajveerjat.github.io/files/Teaching_files/UCB_Summer26_review.pdf" target="_blank" rel="noopener noreferrer">[Reviews]</a>.
+
 
 ## Independent Instructor, Dept. of Economics, UC Riverside
 
