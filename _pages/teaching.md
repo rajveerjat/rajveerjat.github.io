@@ -51,7 +51,7 @@ author_profile: true
 
 <div class="teach-wrap">
 
-<p class="teach-intro">Teaching sits at the center of how I think about economics — I've taught across development, environmetrics, time series, and quantitative methods, from undergraduate discussion sections to graduate-level workshops. Below is a summary of my teaching record at UC Berkeley and UC Riverside, along with syllabi, reviews, and student feedback.</p>
+<p class="teach-intro">Teaching sits at the center of how I think about economics. I've taught across econometrics, finance, and development — from undergraduate discussion sections to graduate-level workshops.</p>
 
 <div class="sec-title"><h1>UC Berkeley</h1><div class="rule"></div></div>
 
@@ -64,8 +64,8 @@ author_profile: true
 </div>
 </div>
 <div class="split-right">
-<img class="campus-photo" src="https://commons.wikimedia.org/wiki/Special:FilePath/Sather_Gate_-_University_of_California,_Berkeley_-_DSC04925.JPG?width=1200" alt="Sather Gate, UC Berkeley">
-<p class="campus-cred">Sather Gate, UC Berkeley. Photo: Daderot, <a href="https://commons.wikimedia.org/wiki/File:Sather_Gate_-_University_of_California,_Berkeley_-_DSC04925.JPG">Wikimedia Commons</a> (CC0).</p>
+<img class="campus-photo" src="/files/images/berkeley-teaching.jpg" alt="Teaching Economic Development at UC Berkeley">
+<p class="campus-cred">Photo: Viraj Khatri, taken during one of my classes.</p>
 </div>
 </div>
 
