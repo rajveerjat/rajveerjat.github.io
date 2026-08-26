@@ -47,6 +47,8 @@ author_profile: true
 
 .award-strip { display:flex; align-items:center; gap:0.6em; border:1px solid var(--line); border-radius:8px; padding:0.7em 1em; margin-bottom:1.4em; background:#fffdf3; }
 .award-strip .medal { font-size:1.4em; }
+
+.subhead { font-size:1.05em; font-weight:600; margin:0 0 0.7em; }
 </style>
 
 <div class="teach-wrap">
@@ -54,6 +56,8 @@ author_profile: true
 <p class="teach-intro">Teaching sits at the center of how I think about economics. I've taught across econometrics, finance, and development, both at the undergraduate and graduate level. I find teaching a therapeutic activity — a way of passing on the knowledge I've learned to the next generation, and a commitment I feel toward society. A meaningful share of what I earn from teaching also goes back to society, through donations to NGOs and taxes that fund public goods.</p>
 
 <div class="sec-title"><h1>UC Berkeley</h1><div class="rule"></div></div>
+
+<h3 class="subhead">Independent Instructor, Dept. of Economics</h3>
 
 <div class="split-row">
 <div class="split-left">
@@ -70,7 +74,7 @@ author_profile: true
 </div>
 
 
-**What Berkeley Students Say**
+<h3 class="subhead">What Berkeley Students Say</h3>
 
 <div class="quote-grid">
 <div class="quote-card"><p>Professor Jat would do a great job teaching more technical, statistics-heavy courses too — his technical background is strong, and he's proactive about feedback and adapting to how students learn.</p></div>
@@ -84,7 +88,7 @@ author_profile: true
 
 <div class="award-strip"><span class="medal">🏅</span><span><b>Outstanding Teaching Assistant</b> — University of California, Riverside (2025)</span></div>
 
-**Independent Instructor, Dept. of Economics**
+<h3 class="subhead">Independent Instructor, Dept. of Economics</h3>
 
 <div class="split-row">
 <div class="split-left">
@@ -108,7 +112,7 @@ author_profile: true
 </div>
 
 
-**Teaching Assistant, Dept. of Economics**
+<h3 class="subhead">Teaching Assistant, Dept. of Economics</h3>
 
 <div class="timeline">
 <div class="t-item"><h4>Time Series Econometrics Theory <i>(Graduate)</i></h4><div class="terms">Spring 2024<a href="http://rajveerjat.github.io/files/Teaching_files/ECON205C_syllabus.pdf">Reviews</a></div></div>
@@ -120,7 +124,7 @@ author_profile: true
 <div class="t-item"><h4>Introduction to Microeconomics</h4><div class="terms">Spring 2022<a href="http://rajveerjat.github.io/files/Teaching_files/Spring2022_reviews.pdf">Reviews</a></div></div>
 </div>
 
-**Lead, Graduate Quantitative Methods Center**
+<h3 class="subhead">Lead, Graduate Quantitative Methods Center</h3>
 
 <div class="badge-list">
 <span><b>Quant. Methods for Finance</b><i>MBA / MFin / MSFA — Fall 2024</i></span>
