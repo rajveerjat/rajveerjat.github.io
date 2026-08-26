@@ -51,7 +51,7 @@ author_profile: true
 
 <div class="teach-wrap">
 
-<p class="teach-intro">Teaching sits at the center of how I think about economics. I've taught across econometrics, finance, and development, both at the undergraduate and graduate level. I find teaching a therapeutic activity, a way of passing on the knowledge I've learned to the next generation, and a commitment I feel toward society. A meaningful share of what I earn from teaching also goes back to society, through donations to NGOs and taxes that fund public goods.</p>
+<p class="teach-intro">Teaching sits at the center of how I think about economics. I've taught across econometrics, finance, and development, both at the undergraduate and graduate level. I find teaching a therapeutic activity — a way of passing on the knowledge I've learned to the next generation, and a commitment I feel toward society. A meaningful share of what I earn from teaching also goes back to society, through donations to NGOs and taxes that fund public goods.</p>
 
 <div class="sec-title"><h1>UC Berkeley</h1><div class="rule"></div></div>
 
@@ -64,8 +64,8 @@ author_profile: true
 </div>
 </div>
 <div class="split-right">
-<img class="campus-photo" src="/files/images/berkeley-teaching.jpg" alt="Teaching Economic Development at UC Berkeley">
-<p class="campus-cred">Photo: Viraj Khatri, taken during one of my classes.</p>
+<img class="campus-photo" src="https://commons.wikimedia.org/wiki/Special:FilePath/Sather_Gate_-_University_of_California,_Berkeley_-_DSC04925.JPG?width=1200" alt="Sather Gate, UC Berkeley">
+<p class="campus-cred">Sather Gate, UC Berkeley. Photo: Daderot, <a href="https://commons.wikimedia.org/wiki/File:Sather_Gate_-_University_of_California,_Berkeley_-_DSC04925.JPG">Wikimedia Commons</a> (CC0).</p>
 </div>
 </div>
 
