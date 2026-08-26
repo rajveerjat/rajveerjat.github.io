@@ -64,6 +64,7 @@ author_profile: true
 <div class="course-card">
 <span class="term">Summer 2026</span>
 <h4>Economic Development</h4>
+<div style="font-size:0.82em; color:#6b6b6b;">with Applications in Python</div>
 <div class="links"><a href="http://rajveerjat.github.io/files/Syllabus_Econ_N171.pdf">Syllabus</a><a href="http://rajveerjat.github.io/files/Teaching_files/UCB_Summer26_review.pdf">Reviews</a></div>
 </div>
 </div>
