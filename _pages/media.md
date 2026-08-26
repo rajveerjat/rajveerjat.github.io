@@ -20,7 +20,7 @@ author_profile: true
 
 <div class="media-wrap">
 
-<p class="media-intro">Op-eds and popular writings.</p>
+<p class="media-intro">Op-eds and policy writings.</p>
 
 <div class="timeline">
 <div class="t-item">
