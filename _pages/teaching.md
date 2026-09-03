@@ -62,6 +62,12 @@ author_profile: true
 <div class="split-row">
 <div class="split-left">
 <div class="course-card">
+<span class="term">Summer 2027</span>
+<h4>Financial Economics</h4>
+<div style="font-size:0.82em; color:#6b6b6b;">Econ 136 · Asset Pricing, Portfolio Theory & Factor Models</div>
+<div class="links"><span style="color:#9b9b9b; font-size:0.82em;">Syllabus coming soon</span></div>
+</div>
+<div class="course-card">
 <span class="term">Summer 2026</span>
 <h4>Economic Development</h4>
 <div style="font-size:0.82em; color:#6b6b6b;">with Applications in Python</div>
