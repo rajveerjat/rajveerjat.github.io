@@ -53,7 +53,7 @@ author_profile: true
 
 <div class="teach-wrap">
 
-<p class="teach-intro">Teaching sits at the center of how I think about economics. I've taught across econometrics, finance, and development, both at the undergraduate and graduate level. I find teaching a therapeutic activity — a way of passing on the knowledge I've learned to the next generation, and a commitment I feel toward society. A meaningful share of what I earn from teaching also goes back to society, through donations to NGOs and taxes that fund public goods.</p>
+<p class="teach-intro">Teaching sits at the center of how I think about economics. I've taught across econometrics, finance, and development, both at the undergraduate and graduate level. I find teaching a therapeutic activity and a way of passing on the knowledge I've learned to the next generation. A meaningful share of what I earn from teaching goes back to society, through donations to NGOs and taxes that fund public goods.</p>
 
 <div class="sec-title"><h1>UC Berkeley</h1><div class="rule"></div></div>
 
