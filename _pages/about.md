@@ -69,6 +69,11 @@ Application Areas: Finance, Development, IO, Macro.
 
 <div class="timeline" id="news-timeline">
 
+<div class="t-item" data-tag="position">
+<h4><span class="n-tag n-tag-position">Position</span>Jun 2026</h4>
+<div class="terms">Got a return offer to teach Financial Economics (ECON 136) in the Dept. of Economics at UC Berkeley.</div>
+</div>
+
 <div class="t-item" data-tag="talk">
 <h4><span class="n-tag n-tag-talk">Talk</span>Jun 2026</h4>
 <div class="terms">Paper accepted for oral presentation at the 2026 North American Summer Meeting (NASM) of the Econometric Society, Atlanta, GA, USA.</div>
