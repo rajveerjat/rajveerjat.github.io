@@ -71,7 +71,7 @@ Application Areas: Finance, Development, IO, Macro.
 
 <div class="t-item" data-tag="position">
 <h4><span class="n-tag n-tag-position">Position</span>Jun 2026</h4>
-<div class="terms">Got a return offer to teach Financial Economics (ECON 136) in the Dept. of Economics at UC Berkeley.</div>
+<div class="terms">Invited back to UC Berkeley to teach Financial Economics (Econ 136).</div>
 </div>
 
 <div class="t-item" data-tag="talk">
