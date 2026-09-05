@@ -70,12 +70,12 @@ Application Areas: Finance, Development, IO, Macro.
 <div class="timeline" id="news-timeline">
 
 <div class="t-item" data-tag="position">
-<h4><span class="n-tag n-tag-position">Position</span>Jun 2026</h4>
+<h4><span class="n-tag n-tag-position">Position</span>Sep 2026</h4>
 <div class="terms">Invited back to UC Berkeley to teach Financial Economics (Econ 136).</div>
 </div>
 
 <div class="t-item" data-tag="talk">
-<h4><span class="n-tag n-tag-talk">Talk</span>Sep 2026</h4>
+<h4><span class="n-tag n-tag-talk">Talk</span>Jun 2026</h4>
 <div class="terms">Paper accepted for oral presentation at the 2026 North American Summer Meeting (NASM) of the Econometric Society, Atlanta, GA, USA.</div>
 </div>
 
