@@ -1,0 +1,407 @@
+---
+layout: archive
+title: ""
+permalink: /research/
+author_profile: true
+---
+<html lang="en">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  padding: 10px;
+}
+.left {
+  width: 35%;
+}
+.right {
+  width: 65%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.div-img{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    padding-top:20%;
+}
+img{
+    transition: transform 1s;
+    width:350px;
+    height:250px;
+    margin:0 auto;
+    background-color: rgb(173, 173, 237);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+img:hover{
+    transform:scale(1.5);
+}
+br {
+            display: block;
+            content: "";
+            margin-top: 10;
+}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides, .mySlides2, .mySlides3 {display: none}
+img {vertical-align: middle;}
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+.text {
+  color: rgba(0,0,0,0.8);
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: -30px;
+  width: 100%;
+  text-align: center;
+}
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+.dot {
+  cursor: pointer;
+  position: relative;
+  bottom: -30px;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+.category-tag {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #1F3864;
+  padding: 3px 10px;
+  border-radius: 4px;
+  margin-bottom: 6px;
+}
+.result-highlight {
+  font-size: 14px;
+  color: #1F3864;
+  font-weight: 600;
+}
+.conference-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.conference-table td {
+    padding: 5px;
+}
+.conference-table td:first-child {
+    text-align: left;
+    width: 70%;
+}
+.conference-table td:last-child {
+    text-align: right;
+    width: 30%;
+}
+</style>
+</head>
+
+<body>
+<div class="container">
+
+<div align="center" id="top">
+<h1 class="text-muted" style="color: #888888; font-weight:600; text-shadow: 1px 1px #A9A9A9;">
+<i>RESEARCH</i>
+</h1>
+</div>
+
+<!-- ================= FORECASTING PAPER: Kernel 3PRF ================= -->
+<hr class="featurette-divider ">
+<div id="Kernel_3PRF">
+<span class="category-tag">Forecasting Paper</span><br>
+<span style="font-size:20px; color: black; font-weight:bold"> Kernel Three Pass Regression Filter </span><br>
+<span style="font-size:17px"> (with <a href="https://daanishpadha.com">Daanish Padha</a>) <br></span>
+<span style="font-size:14px"> [Award winner at The World Congress of the Econometrics Society, Seoul, 2025] <br></span>
+<span style="font-size:14px"> [Accepted for Presentation in European Winter Meeting of the Econometric Society (EWMES) 2024] <br></span>
+</div>
+<div class="row">
+	<div class="column left">
+	 <div class="slideshow-container">
+		<a href="#Kernel_3PRF" target="_blank ">
+		<div class="slideshow-container">
+		 <div class="mySlides fade">
+  			<div class="numbertext">1 / 3</div>
+  				<img src="../images/K3PRF_short_horizon_plots.png" style="width:100%" onclick="plusSlides(-1)">
+  				<div class="text"> Forecasts --- Shorter Horizion</div>
+		</div>
+		 <div class="mySlides fade">
+  			<div class="numbertext">2 / 3</div>
+  				<img src="../images/K3PRF_long_horizon_plots.png" style="width:100%" onclick="plusSlides(+1)">
+  				<div class="text"> Forecasts --- Longer Horizion</div>
+			</div>
+		<div class="mySlides fade">
+  			<div class="numbertext">3 / 3</div>
+  				<img src="../images/k3prf_archi.png" style="width:100%" onclick="plusSlides(-1)">
+  				<div class="text">Kernel 3PRF --- Architecture</div>
+		</div>
+		<a class="prev" onclick="plusSlides(-1)">❮</a>
+		<a class="next" onclick="plusSlides(1)">❯</a>
+		</div>
+		<script>
+		let slideIndex = 1;
+		showSlides(slideIndex);
+		function plusSlides(n) { showSlides(slideIndex += n); }
+		function currentSlide(n) { showSlides(slideIndex = n); }
+		function showSlides(n) {
+  			let i;
+  			let slides = document.getElementsByClassName("mySlides");
+ 			 let dots = document.getElementsByClassName("dot");
+  			if (n > slides.length) {slideIndex = 1}
+  			if (n < 1) {slideIndex = slides.length}
+ 			 for (i = 0; i < slides.length; i++) { slides[i].style.display = "none"; }
+  			for (i = 0; i < dots.length; i++) { dots[i].className = dots[i].className.replace(" active", ""); }
+  			slides[slideIndex-1].style.display = "block";
+			}
+		</script>
+	      </a>
+	    </div>
+      </div>
+
+  <div class="column right">
+		<h3 class="featurette-heading ">A long-horizon forecasting method that beats competing methods on 75% of 176 macro series (FRED-QD dataset).</h3>
+		<span class="result-highlight">Award-winning paper, The 2025 World Congress of the Econometric Society.</span>
+		<h3>
+			<a href="http://rajveerjat.github.io/files/Kernel_3PRF.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><b>[Paper]</b></a>&nbsp;
+			<a href="http://rajveerjat.github.io/files/K3PRFposter.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><b>[Poster]</b></a>&nbsp;
+		</h3>
+		 <details>
+		<summary>Abstract</summary>
+		<br>
+	         We forecast a single time series using a high-dimensional set of predictors.
+                 When predictors share common underlying dynamics, a latent factor model estimated
+	         by the Principal Component method effectively characterizes their comovements.
+		 These latent factors succinctly summarize the data and aid in prediction, mitigating
+	         the curse of dimensionality. However, two significant drawbacks arise: (1) not all
+		 factors may be relevant, and utilizing all of them in constructing forecasts leads to
+	         inefficiency, and (2) typical models assume a linear dependence of the target on the
+		 set of predictors, which limits accuracy. We address these issues through a novel method:
+		 Kernel Three-Pass Regression Filter. This method extends a supervised forecasting technique,
+		 the Three-Pass Regression Filter, to exclude irrelevant information and operate within an
+		 enhanced framework capable of handling nonlinear dependencies. Our method is computationally
+		 efficient and demonstrates strong empirical performance, particularly over longer forecast horizons.
+		 </details>
+		</div>
+</div>
+
+<!-- ================= CAUSAL INFERENCE (DEEP LEARNING): SIF ================= -->
+<hr class="featurette-divider ">
+<div id="SIF">
+<span class="category-tag">Causal Inference Paper (Deep Learning)</span><br>
+<span style="font-size:20px; color: black; font-weight:bold"> Sufficient Instruments Filter</span><br>
+<span style="font-size:14px"> [Accepted for Presentation in The 2025 California Econometrics Conference and European Meeting of the Econometric Society] <br></span>
+<span style="font-size:14px"> [Invited talks at: Southern Illinois University Carbondale, Gettysburg College, University of Guelph, ISI Delhi, IIT Delhi] <br></span>
+</div>
+<div class="row">
+	<div class="column left">
+	 <img class="img-thumbnail img-responsive " src="../images/SIF_archi.png" onclick="op(this.src)">
+	</div>
+
+	 <div class="column right">
+		 <h3 class="featurette-heading ">A five-layer deep learning architecture for causal inference with high-dimensional, correlated, weak, or invalid instruments. In a CAPM application on a small-cap ETF, uncovers a true beta of 1.51 versus a naive OLS estimate of 1.05, a 44% higher systematic risk exposure, rejecting the null of beta ≤ 1 at 99% confidence.</h3>
+		 <span class="result-highlight">Proves consistency and asymptotic normality under correlated, high-dimensional instruments.</span>
+		 <h3>
+			<a href="http://rajveerjat.github.io/files/JMP.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none; "><b>[Paper]</b></a>&nbsp;
+		</h3>
+		 <details>
+		<summary>Abstract</summary>
+		<br>
+		 This paper introduces a novel five-layered deep learning-based tractable procedure to filter out sufficient information
+                 from many instruments for estimating parameters in regression models with endogenous regressors.
+                 The method draws its merit from three key properties: the ability to incorporate supervision,
+                 the flexibility to accommodate non-linearity, and the capability for sufficient dimension reduction.
+                 This method is consistent and asymptotically normal when many instruments are correlated.
+                 Simulation exercises show that this method consistently achieves lower bias and root mean squared error
+                 compared to competing benchmarks, across many specifications. Two
+                 real-world applications in industrial organizations(IO) and finance are considered, yielding meaningful insights into causal relationships.
+                 The method remains robust when the number of instruments exceeds the sample size, and performs well with weak and even invalid
+                 observed instruments, as long as there exists at least one linear combination of common factors among the
+                 observed instruments that serves as a valid instrument.
+		</details>
+	</div>
+</div>
+
+<!-- ================= APPLICATION IN MACRO-FINANCIAL MARKETS: Bond Risk Premia ================= -->
+<hr class="featurette-divider ">
+<div id="BondPremia">
+<span class="category-tag">Application in Macro-Financial Markets</span><br>
+<span style="font-size:20px; color: black; font-weight:bold"> Macro Factors Are Underrated: Bond Risk Premia Revisited</span><br>
+</div>
+<div class="row">
+	<div class="column left">
+	 <img class="img-thumbnail img-responsive " src="../images/bond_risk_prem.png" onclick="op(this.src)">
+	</div>
+
+	 <div class="column right">
+		 <h3 class="featurette-heading ">
+			 Overturns the consensus that macro factors play a secondary role to the Cochrane-Piazzesi (CP) factor in explaining bond risk premia, surpassing this influential 2005 benchmark.
+		 </h3>
+		 <h3>
+			<b>[Draft Available on Request]</b>&nbsp;
+		</h3>
+		 <details>
+		<summary>Abstract</summary>
+		<br>
+	     This paper revisits the role of macroeconomic factors in explaining bond risk premia.
+			 We show that carefully constructed supervised macroeconomic
+			 factors explain a substantial and economically meaningful share of
+			 variation in bond risk premia—far more than previously documented.
+			 In contrast, widely used principal component–based macro factors,
+			 such as those of Ludvigson and Ng (2009), substantially understate
+			 the true explanatory power of macroeconomic information. As a result,
+			 the influential conclusion of Cochrane and Piazzesi (2005)
+			 that financial factors dominate macroeconomic forces is overturned:
+			 once the variation explained by our supervised macro factors is removed,
+			 neither financial factors nor PCA-based macro factors explain any remaining
+			 variation in bond risk premia, whereas the reverse is not true.
+			 These findings imply that standard financial and unsupervised macro factors
+			 capture only a subset of the information embedded in macroeconomic fundamentals when they are properly measured.
+		 </details>
+	</div>
+</div>
+
+<!-- ================= APPLICATION OF NON-PARAMETRIC MODELING: APG ================= -->
+<hr class="featurette-divider ">
+<div id="APG">
+<span class="category-tag">Application of Non-Parametric Modeling</span><br>
+<span style="font-size:20px; color: black; font-weight:bold"> The Agricultural Productivity Gap: Informality Matters </span><br>
+<span style="font-size:17px"> (with <a href="https://scholar.google.com/citations?user=aGVkcp8AAAAJ&hl=en">Bharat Ramaswami</a> )  <br></span>
+<span style="font-size:14px"> [Accepted at the top field journal in development economics: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001683">Journal of Development Economics</a>, Vol 178 (2026)] <br></span>
+<span style="font-size:14px"> [Media Coverage by <a href="https://www.ideasforindia.in/topics/agriculture/the-agricultural-productivity-gap-informality-matters.html">Ideas for India</a> and VoxDev, leading international policy research portals] <br></span>
+</div>
+<div class="row">
+	<div class="column left">
+        <div class="slideshow-container" id="slideshow2">
+         <div class="mySlides2 fade">
+         <div class="numbertext">1 / 3</div>
+          <img src="../images/APG.png" style="width:100%" onclick="plusSlides2(-1)">
+         <div class="text">Productivity Gap --- Informality</div>
+         </div>
+       <div class="mySlides2 fade">
+        <div class="numbertext">2 / 3</div>
+         <img src="../images/APG_meme.png" style="width:100%" onclick="plusSlides2(-1)">
+         <div class="text">Informed View of Productivity Gap</div>
+       </div>
+      <div class="mySlides2 fade">
+        <div class="numbertext">3 / 3</div>
+        <img src="../images/APG_meme2.png" style="width:100%" onclick="plusSlides2(+1)">
+        <div class="text">Policy Implication</div>
+      </div>
+      <a class="prev" onclick="plusSlides2(-1)">❮</a>
+      <a class="next" onclick="plusSlides2(1)">❯</a>
+    </div>
+  <script>
+    let slideIndex2 = 1;
+    showSlides2(slideIndex2);
+    function plusSlides2(n) { showSlides2(slideIndex2 += n); }
+    function currentSlide2(n) { showSlides2(slideIndex2 = n); }
+    function showSlides2(n) {
+      let i;
+      let slides = document.getElementsByClassName("mySlides2");
+      let dots = document.getElementsByClassName("dot");
+      if (n > slides.length) { slideIndex2 = 1 }
+      if (n < 1) { slideIndex2 = slides.length }
+      for (i = 0; i < slides.length; i++) { slides[i].style.display = "none"; }
+      for (i = 0; i < dots.length; i++) { dots[i].className = dots[i].className.replace(" active", ""); }
+      slides[slideIndex2 - 1].style.display = "block";
+       }
+    </script>
+   </div>
+
+  <div class="column right">
+		<h3 class="featurette-heading ">Applied non-parametric econometric modeling to overturn conventional wisdom on a long-standing question in development economics.</h3>
+		 <h3>
+			<a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387825001683" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><b>[Published Version]</b></a>&nbsp;
+			 <a href="https://ramaswami-s-web-page.web.app/pdf_files/papers/APG.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: none;"><b>[Working Paper Version]</b></a>&nbsp;
+		</h3>
+		 <details>
+		<summary>Abstract</summary>
+		<br>
+		 The measured agricultural productivity gap (APG) in developing countries typically compares agriculture with the entire non-farm economy,
+			 implicitly treating the latter as homogeneous. In developing countries, most non-farm employment is informal, concentrated in small,
+			 unregistered enterprises with low productivity. This paper compares the productivity of agriculture to the informal and formal non-farm
+			 sectors in India. Using Indian sectoral data from the India KLEMS database linked with nationally representative labor surveys,
+			 we decompose the non-farm economy into formal and informal segments and adjust productivity measures for differences in hours worked,
+			 human capital, and labor's share of value-added. We find that the APG is almost entirely driven by the small formal non-farm sector.
+			 The gap with the informal sector is negligible. Between 63 and 75 % of non-farm workers are in informal employment dominated industries
+			 that are not more productive than agriculture. These results reframe the APG as a formal–informal divide.
+                 </details>
+		</div>
+</div>
+
+<!-- ================= Condensed presentations ================= -->
+<hr class="featurette-divider ">
+<div align="center" id="WP">
+<h1> Selected Presentations </h1> <br>
+</div>
+
+<table class="conference-table">
+<tr><td>The 13th World Congress of the Econometric Society</td><td>Seoul, South Korea (Aug 2025)</td></tr>
+<tr><td>The European Winter Meeting of the Econometric Society (EWMES 2024)</td><td>Palma, Spain (Dec 2024)</td></tr>
+<tr><td>The 35th Annual Midwest Econometrics Group Conference</td><td>UIUC, IL, USA (Oct 2025)</td></tr>
+<tr><td>The California Econometrics Conference</td><td>Victoria, BC, Canada (Sep 2025) &amp; UC Davis (Sep 2024)</td></tr>
+</table>
+<p style="text-align:center; font-size:14px;"><a href="https://github.com/rajveerjat/rajveerjat.github.io" target="_blank">Full presentation history available on request.</a></p>
+
+<hr class="featurette-divider ">
+
+<div align="center">
+  <h2 class="text-muted">
+     <a href="#top" target="_blank" style="color: #888888; font-weight:600; text-decoration: none;">
+	Back to top &nbsp; &nbsp; &nbsp;
+     </a>
+  </h2>
+<br>
+</div>
+
+</div>
+</body>
+</html>
