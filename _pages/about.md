@@ -33,13 +33,14 @@ redirect_from:
 
 Welcome!
 
-I work in the AI/ML team at Western Digital. Out of personal interest, I teach at UC Berkeley and pursue academic research.
+I'm an econometrician and data scientist on the AI/ML team at Western Digital. My toolbox extracts signals from tech-industry movements, especially in semiconductors, and from macro-finance variables to produce longer-horizon forecasts and inform strategy. I translate these into credible inputs on strategy, pricing, and demand for executive leadership.
 
-I hold a PhD in Econometrics from the University of California, Riverside, an MS with academic distinction from the Indian Statistical Institute, and a Bachelor's in Electrical Engineering from IIT Roorkee.
+My research develops new econometric and machine learning methods. My forecasting work won an award at the 2025 World Congress of the Econometric Society, and my applied work appears in the Journal of Development Economics. I also teach causal inference and financial economics at UC Berkeley.
 
-Research Areas: Econometric Methods (High-dimensions, Causal, Nonparametrics), Machine Learning.
+I hold a PhD in Econometrics from UC Riverside, an MS with academic distinction from the Indian Statistical Institute, and a B.Tech in Electrical Engineering from IIT Roorkee.
 
-Application Areas: Finance, Development, IO, Macro.
+Areas of Expertise: Causal inference, high-dimensional econometrics, forecasting, nonparametrics, statistics.
+
 
 ## News
 
