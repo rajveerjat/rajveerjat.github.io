@@ -70,6 +70,12 @@ Areas of Expertise: Causal inference, high-dimensional econometrics, forecasting
 
 <div class="timeline" id="news-timeline">
 
+
+<div class="t-item" data-tag="media">
+<h4><span class="n-tag n-tag-position">Media</span>Oct 2026</h4>
+<div class="terms">Research featured in <a href="https://www.thehindu.com/news/national/most-of-rural-agricultural-workers-landed-in-non-productive-informal-urban-jobs-in-25-years-study/article71548198.ece" target="_blank" rel="noopener">The Hindu</a>.</div>
+</div>
+
 <div class="t-item" data-tag="position">
 <h4><span class="n-tag n-tag-position">Position</span>Sep 2026</h4>
 <div class="terms">Invited back to UC Berkeley to teach Financial Economics (Econ 136).</div>
