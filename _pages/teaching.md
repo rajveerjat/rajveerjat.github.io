@@ -57,7 +57,7 @@ author_profile: true
 
 <div class="sec-title"><h1>UC Berkeley</h1><div class="rule"></div></div>
 
-<h3 class="subhead">Independent Instructor, Dept. of Economics</h3>
+<h3 class="subhead">Instructor of Record, Dept. of Economics</h3>
 
 <div class="split-row">
 <div class="split-left">
@@ -95,7 +95,7 @@ author_profile: true
 
 <div class="award-strip"><span class="medal">🏅</span><span><b>Outstanding Teaching Assistant</b> — University of California, Riverside (2025)</span></div>
 
-<h3 class="subhead">Independent Instructor, Dept. of Economics</h3>
+<h3 class="subhead">Instructor of Record, Dept. of Economics</h3>
 
 <div class="split-row">
 <div class="split-left">
