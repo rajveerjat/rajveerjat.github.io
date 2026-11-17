@@ -25,7 +25,13 @@ a.m-card:hover, a.m-card:focus-visible { border-color:var(--accent); box-shadow:
 .m-card .m-go { color:var(--accent); font-weight:600; white-space:nowrap; }
 .m-card:hover .m-go { text-decoration:underline; }
 
-a.m-card.m-feature { background:var(--tint); border-left:4px solid var(--accent); padding:1.2em 1.3em; }
+div.m-card { display:flex; flex-direction:column; padding:1em 1.1em; border:1px solid var(--line); border-radius:8px; background:#fff; color:var(--ink); }
+.m-card .m-links { display:flex; flex-wrap:wrap; gap:0.4em 1.2em; margin-top:0.6em; font-size:0.8em; }
+.m-card .m-links a { text-decoration:none; }
+.m-card .m-links a:hover, .m-card .m-links a:focus-visible { text-decoration:underline; }
+.m-card .m-links .m-alt { color:var(--sub); font-weight:500; }
+
+.m-card.m-feature { background:var(--tint); border-left:4px solid var(--accent); padding:1.2em 1.3em; }
 .m-card.m-feature .m-title { font-size:1.15em; }
 
 @media (prefers-reduced-motion: reduce) { a.m-card { transition:none; } a.m-card:hover { transform:none; } }
@@ -49,11 +55,12 @@ a.m-card.m-feature { background:var(--tint); border-left:4px solid var(--accent)
 <div class="media-section">
 <h3>Op-eds and policy writing <span class="count">4</span></h3>
 <div class="media-grid">
-<a class="m-card m-feature" href="https://epaper.jagran.com/12-nov-2026-262-national-edition-national-page-9.html" target="_blank" rel="noopener">
+<div class="m-card m-feature">
 <span class="m-outlet">Dainik Jagran · National Edition</span>
 <span class="m-title" lang="hi">कृषि संकट और रोजगार सृजन<span class="m-sub" lang="en">Agrarian crisis and job creation (in Hindi)</span></span>
-<span class="m-meta"><span>Nov 12, 2026 · Vimarsh · Manthan</span><span class="m-go">E-paper (paywall) →</span></span>
-</a>
+<span class="m-meta"><span>Nov 12, 2026 · Vimarsh · Manthan</span></span>
+<span class="m-links"><a class="m-go" href="/files/Rajveer_Jat_Dainik_Jagran_op-ed.pdf" target="_blank" rel="noopener">Read clipping (PDF) →</a><a class="m-go m-alt" href="https://epaper.jagran.com/12-nov-2026-262-national-edition-national-page-9.html" target="_blank" rel="noopener">E-paper (paywall) →</a></span>
+</div>
 
 <a class="m-card" href="https://voxdev.org/topic/agriculture/rethinking-agricultural-productivity-gap-informality-matters" target="_blank" rel="noopener">
 <span class="m-outlet">VoxDev</span>
