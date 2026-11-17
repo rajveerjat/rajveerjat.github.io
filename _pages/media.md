@@ -20,6 +20,7 @@ a.m-card { display:flex; flex-direction:column; padding:1em 1.1em; border:1px so
 a.m-card:hover, a.m-card:focus-visible { border-color:var(--accent); box-shadow:0 4px 14px rgba(59,91,219,0.12); transform:translateY(-2px); }
 .m-card .m-outlet { font-size:0.72em; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; color:var(--accent); margin-bottom:0.5em; }
 .m-card .m-title { font-size:1em; font-weight:600; line-height:1.35; margin-bottom:0.7em; }
+.m-card .m-sub { display:block; font-size:0.85em; font-weight:400; color:var(--sub); margin-top:0.25em; }
 .m-card .m-meta { margin-top:auto; display:flex; justify-content:space-between; align-items:baseline; gap:0.8em; font-size:0.8em; color:var(--sub); }
 .m-card .m-go { color:var(--accent); font-weight:600; white-space:nowrap; }
 .m-card:hover .m-go { text-decoration:underline; }
@@ -46,8 +47,14 @@ a.m-card.m-feature { background:var(--tint); border-left:4px solid var(--accent)
 </div>
 
 <div class="media-section">
-<h3>Op-eds and policy writing <span class="count">3</span></h3>
+<h3>Op-eds and policy writing <span class="count">4</span></h3>
 <div class="media-grid">
+<a class="m-card m-feature" href="https://epaper.jagran.com/12-nov-2026-262-national-edition-national-page-9.html" target="_blank" rel="noopener">
+<span class="m-outlet">Dainik Jagran · National Edition</span>
+<span class="m-title" lang="hi">कृषि संकट और रोजगार सृजन<span class="m-sub" lang="en">Agrarian crisis and job creation (in Hindi)</span></span>
+<span class="m-meta"><span>Nov 12, 2026 · Vimarsh · Manthan</span><span class="m-go">E-paper (paywall) →</span></span>
+</a>
+
 <a class="m-card" href="https://voxdev.org/topic/agriculture/rethinking-agricultural-productivity-gap-informality-matters" target="_blank" rel="noopener">
 <span class="m-outlet">VoxDev</span>
 <span class="m-title">Rethinking the agricultural productivity gap: Informality matters</span>
